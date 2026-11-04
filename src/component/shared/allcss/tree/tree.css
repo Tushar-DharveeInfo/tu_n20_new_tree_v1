@@ -1,0 +1,533 @@
+html {
+    --treeview-width: 100%;
+}
+
+.rc-tree-treenode-selected {
+    background-color: var(--selection) !important;
+    color: var(--selection-text);
+    opacity: 1 !important;
+    box-shadow: 0 0 0 1px var(--bgfeaturepane1) !important;
+}
+
+.rc-tree .rc-tree-treenode span.rc-tree-switcher {
+    background-image: none !important;
+    padding-left: 0px !important;
+    margin-right: 0px !important;
+    width: 24px !important;
+    flex: 0 0 auto;
+}
+
+.rc-tree-node-content-wrapper {
+    position: relative;
+    display: inline-block;
+    height: var(--node_height);
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    vertical-align: top;
+    cursor: pointer;
+    flex: 1 1 auto;
+    overflow: hidden;
+}
+
+.rc-tree-iconEle {
+    margin: 0px 3px 0px 0px !important;
+}
+
+.rc-tree-iconEle .nz-image-container .nz-feature-icon svg *,
+.nz-tree-node-nz-icon-div .nz-image-container .nz-feature-icon svg * {
+    stroke-width: 0.5;
+}
+
+.rc-tree .rc-tree-treenode {
+    display: flex;
+    align-items: center;
+    height: var(--node_height);
+}
+
+.ng-treeview-setting .rc-tree-treenode span.rc-tree-iconEle {
+    line-height: 0px !important;
+    vertical-align: 0.3em !important;
+}
+
+.ng-treeview-assest-mgt .rc-tree-treenode span.rc-tree-iconEle {
+    line-height: 0px !important;
+    vertical-align: 0.3em !important;
+}
+
+.rc-tree-title {
+    font-family: var(--fontfamily);
+    font-weight: 400;
+    font-size: var(--default_font_size) !important;
+    -webkit-user-select: none;
+    /* Safari */
+    -ms-user-select: none;
+    /* IE 10 and IE 11 */
+    user-select: none;
+}
+
+.rc-tree-treenode .rc-tree-treenode-switcher-close {
+    min-width: 100vw;
+}
+
+/* treeview css for bar*/
+
+.rc-tree-list-holder-inner {
+    overflow: hidden;
+    height: calc(100vh - 158px);
+    overflow-y: auto;
+    width: 100%;
+}
+
+.rc-tree-list-holder {
+    height: 100%;
+}
+
+.rc-tree .rc-tree-treenode .rc-tree-node-content-wrapper {
+    display: flex !important;
+    align-items: center !important;
+}
+
+.rc-tree-contextmenu {
+    background: var(--bgfeaturepane1);
+    padding: 5px;
+    font-family: var(--fontfamily);
+    font-size: var(--default_font_size);
+}
+
+.rc-tree-checkbox.rc-tree-checkbox-checked {
+    position: relative;
+}
+
+.rc-tree-treenode-switcher-open.ng-red-check.rc-tree-treenode-checkbox-indeterminate
+    .rc-tree-checkbox.rc-tree-checkbox-indeterminate:before,
+.rc-tree-treenode-switcher-close.ng-red-check.rc-tree-treenode-checkbox-indeterminate
+    .rc-tree-checkbox.rc-tree-checkbox-indeterminate:before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 14px;
+    height: 14px;
+    background-color: transparent !important;
+}
+
+.rc-tree-treenode-switcher-open.ng-remove-highlights-check.rc-tree-treenode-checkbox-indeterminate
+    .rc-tree-checkbox.rc-tree-checkbox-indeterminate:before,
+.rc-tree-treenode-switcher-close.ng-remove-highlights-check.rc-tree-treenode-checkbox-indeterminate
+    .rc-tree-checkbox.rc-tree-checkbox-indeterminate:before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 14px;
+    height: 14px;
+    background-color: transparent !important;
+}
+
+.rc-tree .rc-tree-treenode .rc-tree-node-content-wrapper {
+    width: 100%;
+    margin-left: 2px;
+}
+
+.rc-tree-treenode-switcher-open.ng-red-check.rc-tree-treenode-checkbox-indeterminate
+    .rc-tree-checkbox.rc-tree-checkbox-indeterminate:after,
+.rc-tree-treenode-switcher-close.ng-red-check.rc-tree-treenode-checkbox-indeterminate
+    .rc-tree-checkbox.rc-tree-checkbox-indeterminate:after {
+    background-color: transparent;
+    border-color: transparent !important;
+}
+
+.rc-tree-treenode-switcher-open.ng-remove-highlights-check.rc-tree-treenode-checkbox-indeterminate
+    .rc-tree-checkbox.rc-tree-checkbox-indeterminate:after,
+.rc-tree-treenode-switcher-close.ng-remove-highlights-check.rc-tree-treenode-checkbox-indeterminate
+    .rc-tree-checkbox.rc-tree-checkbox-indeterminate:after {
+    background-color: transparent;
+    border-color: transparent !important;
+}
+
+.rc-tree .rc-tree-treenode {
+    width: var(--treeview-width) !important;
+}
+
+/* red class add for checkbox*/
+.ng-red-check .rc-tree-treenode span.rc-tree-checkbox {
+    border: 2px solid red !important;
+}
+
+.ng-red-check.rc-tree-treenode-checkbox-checked .rc-tree-treenode span.rc-tree-checkbox {
+    border: 4px solid red !important;
+    background-color: red !important;
+}
+
+.ng-red-check .rc-tree-treenode-checkbox-checked .rc-tree-checkbox.rc-tree-checkbox-checked:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 1px;
+    width: 4px;
+    height: 4px;
+    transform: rotate(45deg);
+}
+
+.rc-tree .ng-red-check span.rc-tree-checkbox {
+    width: 0 !important;
+    height: 0 !important;
+    top: 0px;
+    left: 0;
+    position: relative;
+    background-image: none !important;
+    border: 1px solid var(--bgexplorer) !important;
+    padding: 4px !important;
+}
+
+.ng-red-check.rc-tree-treenode-checkbox-checked span.rc-tree-checkbox.rc-tree-checkbox-checked {
+    border: 2px solid red !important;
+    border-color: red !important;
+}
+
+.rc-tree .ng-red-check.rc-tree-treenode span.rc-tree-checkbox {
+    border-color: red !important;
+    border: 4px solid red !important;
+}
+
+.ng-red-check .rc-tree-checkbox .rc-tree-checkbox-indeterminate:before {
+    background-color: white !important;
+}
+
+.ng-red-check .rc-tree-checkbox.rc-tree-checkbox-checked::after {
+    left: 2px;
+    height: 5px;
+    width: 2px;
+    border-width: 0px 2px 2px 0 !important;
+}
+
+/* green class for checkbox */
+.ng-green-check .rc-tree-treenode span.rc-tree-checkbox {
+    border: 2px solid green !important;
+}
+
+.ng-green-check.rc-tree-treenode-checkbox-checked .rc-tree-treenode span.rc-tree-checkbox {
+    border: 2px solid green !important;
+}
+
+.ng-green-check.rc-tree-treenode-checkbox-checked span.rc-tree-checkbox.rc-tree-checkbox-checked {
+    border-color: green !important;
+    border: 2px solid green !important;
+}
+
+.rc-tree .ng-green-check.rc-tree-treenode span.rc-tree-checkbox {
+    border-color: green !important;
+    border: 2px solid green !important;
+}
+
+.ng-green-check .rc-tree-checkbox.rc-tree-checkbox-checked::after {
+    border: solid green !important;
+    border-width: 0px 2px 2px 0 !important;
+}
+
+.rc-tree-list-holder-inner .rc-tree-title {
+    line-height: 25px;
+}
+
+.rc-tree-title {
+    width: calc(100% - 1px);
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.rc-tree-title .nz-tree-node-title {
+    width: 100%;
+    overflow: hidden;
+}
+
+.rc-tree-title .nz-tree-node-title .nz-tree-node-content {
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+}
+
+.rc-tree-title .nz-tree-node-title .nz-tree-node-content > span:first-child {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-block;
+}
+
+.rc-tree-title .nz-tree-node-title .nz-tree-node-content .nz-tree-node-icons-wrapper {
+    min-width: 50px;
+    width: auto;
+}
+
+.rc-tree-title span {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.rc-tree-list .nz-img-three-dots-rtm {
+    width: 20px;
+    position: absolute;
+    right: 2px;
+    visibility: hidden;
+    opacity: 0;
+}
+
+/* NK changes made for kebab menu explorer tree */
+.rc-tree-treenode.rc-tree-treenode-selected .rc-tree-node-content-wrapper .rc-tree-title .nz-img-three-dots-rtm {
+    visibility: visible;
+    opacity: 1;
+    pointer-events: unset;
+}
+
+/* Treeview node hover effect */
+
+.rc-tree-treenode:hover {
+    background-color: var(--hover);
+}
+
+/* NK changes made for kebab menu explorer tree */
+.rc-tree-treenode:hover .nz-img-three-dots-rtm {
+    visibility: visible;
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+.rc-tree .rc-tree-treenode span.rc-tree-switcher.rc-tree-switcher_close {
+    min-width: var(--node_height) !important;
+    max-width: var(--node_height) !important;
+}
+
+.rc-tree .rc-tree-treenode span.rc-tree-switcher.rc-tree-switcher_open {
+    min-width: var(--node_height) !important;
+    max-width: var(--node_height) !important;
+}
+
+.rc-tree .rc-tree-treenode span.rc-tree-switcher .rc-cst-tree-node {
+    width: 100%;
+}
+
+.rc-tree {
+    position: absolute;
+}
+
+.rc-tree .rc-tree-treenode span.rc-tree-switcher.rc-tree-switcher-noop {
+    min-width: var(--node_height) !important;
+    max-width: var(--node_height) !important;
+}
+
+.rc-tree-list-holder-inner {
+    visibility: hidden;
+    overflow-y: auto;
+}
+
+.rc-tree-list-holder-inner:hover,
+.rc-tree .rc-tree-treenode {
+    visibility: visible;
+}
+
+.rc-tree-focused:not(.rc-tree-active-focused) {
+    border-color: var(--borderandscrollbar) !important;
+}
+
+.rc-tree-active-focused {
+    border: 0.5px solid transparent;
+}
+
+.rc-tree-focused {
+    border: 0.5px solid var(--borderandscrollbar) !important;
+    overflow: auto !important;
+    visibility: visible;
+}
+
+.rc-tree .rc-tree-treenode.drop-target {
+    background-color: var(--bgfeaturepane1) !important;
+}
+
+.rc-tree .rc-tree-treenode.drag-over,
+.drop-target,
+.drag-over,
+.rc-tree-treenode,
+.rc-tree-treenode-draggable {
+    border: none !important;
+    border-color: none !important;
+    border-style: none !important;
+    outline: none !important;
+    border-width: 0 !important;
+}
+
+.rc-tree-treenode-draggable .rc-tree-node-content-wrapper div {
+    border-color: transparent !important;
+}
+
+.rc-tree.ng-treeview-assest-mgt {
+    width: 100% !important;
+}
+
+.rc-tree-indent-unit {
+    display: inline-block;
+    width: 16px;
+}
+
+.rc-tree-indent {
+    display: flex;
+    height: 0;
+    vertical-align: bottom;
+    flex: 0 0 auto;
+}
+
+.rc-tree-switcher_open .rc-cst-tree-node-expanded {
+    transform: rotate(45deg);
+}
+
+.nz-tree-node-nz-icon-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 25px;
+    margin-left: 5px;
+    gap: 5px;
+    width: auto;
+    max-width: 56px;
+}
+
+.nz-tree-node-status-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffff99;
+    border-radius: 2px;
+    padding: 1px;
+}
+
+.nz-tree-node-profile-icon {
+    background-color: var(--replacement-profile-bg, #cce5ff) !important;
+}
+
+.nz-treenode-secure-icon .nz-image-container {
+    margin-right: 2px;
+}
+
+.nz-tree-node-nz-icon-div div {
+    flex: 1 1 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nz-tree-control-container .rc-cst-tree-node svg {
+    height: 100%;
+    width: 100%;
+}
+
+.rc-tree-node-content-wrapper.rc-tree-node-content-wrapper-normal.rc-tree-node-selected {
+    background-color: transparent;
+    color: var(--selectionText);
+    opacity: 1 !important;
+    box-shadow: unset !important;
+}
+
+.rc-tree-treenode-active {
+    border: 0.5px solid !important;
+    border-color: var(--borderandscrollbar) !important;
+}
+
+/* Dual side-by-side trees: dim the inactive tree. State is kept when clicking layout/pane-3. */
+.nz-dual-tree-focus-host[data-active-tree="left"] .nz-feature-explorer-right-pane .nz-tree-control-container,
+.nz-dual-tree-focus-host[data-active-tree="right"] .nz-feature-explorer-pane .nz-tree-control-container {
+    opacity: 0.5;
+    transition: opacity 0.2s ease;
+}
+
+.nz-dual-tree-focus-host[data-active-tree="left"] .nz-feature-explorer-pane .nz-tree-control-container,
+.nz-dual-tree-focus-host[data-active-tree="right"] .nz-feature-explorer-right-pane .nz-tree-control-container {
+    opacity: 1;
+}
+
+/* Keep tree icons visible while allowing only the node text to truncate. */
+.rc-tree .rc-tree-treenode .rc-tree-node-content-wrapper {
+    flex: 1 1 0;
+    min-width: 0;
+    width: auto;
+}
+
+.rc-tree .rc-tree-title {
+    flex: 1 1 0;
+    min-width: 0;
+}
+
+.rc-tree-title .nz-tree-node-title,
+.rc-tree-title .nz-tree-node-title .nz-tree-node-content {
+    display: flex;
+    width: 100%;
+    min-width: 0;
+}
+
+.rc-tree-title .nz-tree-node-title .nz-tree-node-content > span:first-child {
+    flex: 0 1 auto;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+}
+
+.rc-tree-title .nz-tree-node-title .nz-tree-node-content .nz-tree-node-icons-wrapper {
+    display: flex;
+    flex: 0 0 auto;
+    width: auto;
+    min-width: 0;
+}
+
+.rc-tree-title .nz-tree-node-nz-icon-div {
+    flex: 0 0 auto;
+    max-width: none;
+}
+
+.rc-tree-title .nz-tree-node-nz-icon-div > span {
+    flex: 0 0 auto;
+}
+
+/* The menu is absolutely positioned, so reserve its width in the row. */
+.rc-tree-title .nz-node-kebab-copy-icon {
+    flex: 0 0 24px;
+    min-width: 24px !important;
+    margin-left: auto;
+}
+
+/* rc-tree-list / rc-virtual-list scrollbar theme matching */
+.rc-tree-list-scrollbar,
+.rc-virtual-list-scrollbar {
+    width: 8px !important;
+    background-color: transparent !important;
+    box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.1) !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    transition: none !important;
+}
+
+.rc-tree-list-scrollbar.rc-tree-list-scrollbar-horizontal,
+.rc-virtual-list-scrollbar.rc-virtual-list-scrollbar-horizontal {
+    height: 8px !important;
+    width: auto !important;
+}
+
+.rc-tree-list-scrollbar-thumb,
+.rc-virtual-list-scrollbar-thumb {
+    background-color: var(--borderandscrollbar) !important;
+    border-radius: 0px !important;
+    width: 100% !important;
+}
+
+.rc-tree-list-scrollbar-thumb:hover,
+.rc-tree-list-scrollbar-thumb-moving,
+.rc-virtual-list-scrollbar-thumb:hover,
+.rc-virtual-list-scrollbar-thumb-moving {
+    background-color: var(--scrollbar-thumb-hover) !important;
+}

@@ -1,0 +1,63 @@
+.nz-device-entites-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.nz-device-entites {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.nz-device-entites-container .nz-create-entites-pane {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.nz-device-entites-container .nz-model-by-type-pane {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.nz-device-entites-container .nz-product-details-pane {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.nz-product-details-pane>.nz-label-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nz-device-entites-container .nz-node-kebab-copy-icon {
+    display: none;
+}
+
+.nz-device-entites-container .rc-tree-node-selected .nz-node-kebab-copy-icon {
+    display: flex;
+}
+
+.nz-device-entites-container .nz-product-details-pane .nz-propertyTab-main {
+    height: calc(100% - 24px);
+}
+
+.nz-device-entites-container .nz-product-details-pane .nz-propertyTab-main .nz-copy-to-clipboard-div .MuiButtonBase-root {
+    left: 20px !important;
+    top: 5px;
+}
+
+.nz-device-entites-container .nz-model-by-type-pane .rc-tree-title .nz-tree-node-title .nz-tree-node-content>span:first-child {
+    margin-right: 8px;
+}

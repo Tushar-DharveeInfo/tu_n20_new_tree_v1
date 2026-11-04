@@ -1,0 +1,36 @@
+.nz-delete-container,
+.nz-delete-container-div {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.nz-delete-container .nz-delete-controls-container {
+    flex: 1;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+/* Hide redundant subcomponent sub-headers */
+.nz-delete-container .nz-delete-controls-container .nz-device-view-container > .nz-sub-header,
+.nz-delete-container .nz-delete-controls-container .nz-floor-layout-container > .nz-sub-header,
+.nz-delete-container .nz-delete-controls-container .nz-edit-floor-layout-main > .nz-sub-header,
+.nz-delete-container .nz-delete-controls-container .nz-device-floor-layout-container > .nz-sub-header,
+.nz-delete-container .nz-delete-controls-container .nz-chart-and-ai-container > .nz-sub-header,
+.nz-delete-container .nz-delete-controls-container > div > .nz-sub-header:first-child {
+    display: none !important;
+}
+
+.nz-delete-container .nz-message-layout {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

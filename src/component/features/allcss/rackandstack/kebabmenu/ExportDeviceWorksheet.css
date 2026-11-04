@@ -1,0 +1,29 @@
+.nz-header {
+  height: 40px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  padding: 0px 5px;
+  background-color: var(--bgfeaturepane1);
+  display: flex;
+  justify-content: space-between;
+}
+
+.nz-export-entites-container,
+.nz-export-entites-container .nz-grid-dialog-container-div,
+.nz-export-entites-container .nz-grid-main-container-div,
+.nz-export-entites-container .nz-OnetoOne-Grid {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.nz-export-entites-container .nz-export-grid {
+  flex-grow: 1;
+  overflow: hidden;
+}
+
+.nz-export-entites-container .nz-sub-header {
+  flex-shrink: 0;
+}

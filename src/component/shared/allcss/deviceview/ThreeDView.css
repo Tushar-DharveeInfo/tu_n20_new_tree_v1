@@ -1,0 +1,14 @@
+.nz-svg-test-container svg {
+    width: 120px;
+    height: 120px;
+}
+
+.nz-device-view-3d-container {
+    height: 100%;
+    width: 100%;
+}
+
+.nz-threed-div {
+    flex: 1;
+    overflow: hidden;
+}

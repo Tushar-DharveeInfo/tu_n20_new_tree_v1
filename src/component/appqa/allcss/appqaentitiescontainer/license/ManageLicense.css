@@ -1,0 +1,10 @@
+.nz-user-list-container {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.nz-user-list-container .nz-user-list-content {
+    flex-grow: 1;
+    overflow: hidden;
+}

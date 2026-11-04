@@ -1,0 +1,97 @@
+.nz-template-container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.nz-template-container .nz-tree-with-form-editor {
+    width: 100%;
+}
+
+.nz-template-container .nz-alert-delivery-main-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0px var(--spacing-1);
+}
+
+.nz-template-container .nz-template-content {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.nz-template-container .nz-checked-list-panel-container .nz-list-item-container {
+    flex-grow: 1;
+}
+
+.nz-template-container .nz-message-user-card-list {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    min-height: 0;
+}
+
+.nz-template-container .nz-message-user-card-scroll {
+    flex: 1 1 auto;
+    height: 100%;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: var(--card-gap);
+    padding: var(--card-padding-0);
+}
+
+.nz-template-container .nz-message-user-card-status {
+    width: 100%;
+    min-height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--spacing-1);
+}
+
+.nz-template-container .nz-message-user-card-main {
+    height: auto;
+    min-height: 50px;
+    flex: 0 0 auto;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.nz-template-container .nz-message-user-card-main .nz-dynamic-card-content {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.nz-template-container .nz-message-user-card-main .nz-dynamic-card-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    flex-shrink: 0;
+}
+
+.nz-template-container .nz-message-user-card-main .nz-dynamic-card-main-content {
+    flex: 1 1 auto;
+    min-width: 0;
+    width: 100%;
+}
+
+.nz-template-container .nz-message-user-card-main .nz-cardlayout-content {
+    width: 100%;
+    min-width: 0;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.nz-template-container .nz-message-user-card-main .nz-cardlayout-response-details {
+    width: 100%;
+    text-align: left;
+    padding: var(--card-padding-0) 0;
+}

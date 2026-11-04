@@ -1,0 +1,212 @@
+.nz-feature-user .nz-layout-without-tree>.nz-sub-header,
+.nz-feature-user .nz-layout-without-tree>.nz-sub-header #nz-actionimages,
+.nz-feature-user .nz-layout-without-tree>.nz-sub-header #nz-optionalcomponent {
+    background-color: var(--subheaderbg) !important;
+}
+
+
+.nz-feature-user .nz-layout-without-tree .nz-sub-header .nz-popupqa-container .nz-image-strip-data {
+    border-color: var(--bg-color-darktext);
+}
+
+.nz-feature-user .nz-layout-without-tree .nz-sub-header .nz-popupqa-container .nz-image-strip-data:hover {
+    border-color: red;
+}
+
+.nz-delegate-user-container {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    overflow-y: auto;
+    visibility: hidden;
+}
+
+.nz-delegate-user-container>div,
+.nz-delegate-user-container:hover {
+    visibility: visible;
+}
+
+.nz-delegate-user-container .nz-delegate-user-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: var(--spacing-2);
+    padding: var(--spacing-2);
+    justify-content: flex-start;
+    flex-direction: column;
+    background-color: var(--bgexplorer);
+    visibility: visible;
+    overflow-y: auto;
+    height: calc(100% - 40px);
+}
+
+.nz-delegate-user-container .nz-impersonate-user-card {
+    height: auto;
+    min-height: 40px;
+    flex: 0 0 auto;
+}
+
+.nz-delegate-user-container .nz-impersonate-user-card .nz-dynamic-card-content {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.nz-delegate-user-container .nz-impersonate-user-card .nz-dynamic-card-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    flex-shrink: 0;
+    width: 36px;
+    height: 36px;
+    min-width: 36px;
+    min-height: 36px;
+    margin-right: var(--spacing-3);
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+.nz-delegate-user-container .nz-impersonate-user-card .nz-dynamic-card-main-content {
+    flex: 1 1 auto;
+    min-width: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.nz-delegate-user-container .nz-impersonate-user-card .nz-cardlayout-content {
+    width: 100%;
+    min-width: 0;
+    align-items: flex-start;
+    text-align: left;
+    height: 100%;
+    justify-content: center;
+}
+
+.nz-delegate-user-container .nz-impersonate-user-card .nz-cardlayout-header-row--space-between .nz-label-container {
+    color: var(--textprimary) !important;
+}
+
+.nz-delegate-user-container .nz-impersonate-user-card .nz-cardlayout-response-details .nz-label-container {
+    color: var(--textprimary) !important;
+    font-size: 10px;
+    line-height: 1.4;
+}
+
+.nz-delegate-user-image {
+    width: 36px;
+    /* half of original 70px */
+    height: 36px;
+    /* half of original 60px */
+    min-width: 36px;
+    min-height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: var(--spacing-3);
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+.nz-delegate-user-card {
+    width: 100%;
+    min-height: 72px;
+    background-color: var(--bgfeaturepane1);
+    border: 1px solid var(--borderandscrollbar);
+    border-radius: 8px;
+    box-sizing: border-box;
+    transition:
+        box-shadow 0.3s ease,
+        background-color 0.3s ease,
+        border-color 0.3s ease;
+    padding: var(--spacing-2);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nz-delegate-user-card:hover {
+    background-color: var(--subheaderbg);
+    border-color: var(--borderandscrollbar);
+    box-shadow: 0 0 10px var(--bg-color-sidebar-title);
+    cursor: pointer;
+    backdrop-filter: brightness(1.02);
+    transition:
+        background-color 0.3s ease,
+        box-shadow 0.3s ease,
+        border-color 0.3s ease;
+}
+
+.nz-delegate-user-content {
+    flex-grow: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--spacing-2);
+}
+
+.nz-delegate-user-content .nz-delegate-user-title .nz-label-container,
+.nz-delegate-user-address .nz-label-container,
+.nz-delegate-user-note .nz-label-container {
+    color: var(--textprimary) !important;
+}
+
+.nz-delegate-user-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+    color: var(--textprimary);
+}
+
+.nz-date-range {
+    font-size: 14px;
+    margin-left: 8px;
+}
+
+.nz-delegate-user-address,
+.nz-delegate-user-note {
+    font-size: 10px;
+    color: var(--textprimary);
+    line-height: 1.4;
+}
+
+.nz-delegate-user-note {
+    max-height: 3.5em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
+}
+
+.nz-delegate-user-container .nz-user-profile-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nz-delegate-user-container .nz-user-profile-container .nz-grid-dialog-container-div {
+    width: 50%;
+}
+
+.nz-delegate-user-container .nz-impersonated-user-container {
+    flex-grow: 1;
+    overflow: hidden;
+    height: 100%;
+}
+
+.nz-delegate-user-container .nz-user-profile-container .nz-grid-container-div .nz-copy-to-clipboard-only {
+    top: 8px;
+    left: 24px;
+}
+
+.nz-user-profile-container .nz-grid-container-div .nz-showPropertyHeader-with-download .nz-copy-to-clipboard-only {
+    top: 32px !important;
+}

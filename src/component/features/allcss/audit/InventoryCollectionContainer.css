@@ -1,0 +1,104 @@
+.nz-inventory-collection-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.nz-inventory-collection-container .nz-one-to-many-form-container {
+    width: 100%;
+    height: 100%;
+    flex: 1 1 auto;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.nz-inventory-collection-container .nz-grid-container-div {
+    width: 100%;
+    height: auto !important;
+    min-height: fit-content;
+    position: relative;
+}
+
+.nz-inventory-collection-container .nz-ag-container,
+.nz-inventory-collection-container .ag-theme-alpine {
+    display: block !important;
+    position: relative !important;
+    height: auto !important;
+    width: 100% !important;
+}
+
+.nz-inventory-collection-container .ag-root-wrapper.ag-layout-normal,
+.nz-inventory-collection-container .ag-root-wrapper {
+    width: 100% !important;
+    height: auto !important;
+}
+
+.nz-inventory-collection-container .ag-root-wrapper-body.ag-layout-normal,
+.nz-inventory-collection-container .ag-root-wrapper-body {
+    height: fit-content !important;
+}
+
+.nz-inventory-collection-container .ag-root.ag-layout-normal,
+.nz-inventory-collection-container .ag-body.ag-layout-normal {
+    height: auto !important;
+}
+
+.nz-inventory-collection-container .ag-body-viewport {
+    overflow-y: hidden !important;
+}
+
+.nz-inventory-collection-container .ag-body-vertical-scroll {
+    display: none !important;
+}
+
+.nz-inventory-collection-container .ag-header {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+.nz-inventory-collection-container .ag-body-horizontal-scroll {
+    position: sticky;
+    bottom: 0;
+    z-index: 2;
+}
+
+.nz-inventory-collection-container .ag-body-horizontal-scroll-viewport {
+    overflow-x: scroll !important;
+    overflow-y: hidden !important;
+}
+
+/* Ensure column filter (OptionsFilter) and copy buttons sit above the sticky ag-header */
+.nz-inventory-collection-container .nz-grid-container-div .nz-copy-to-clipboard-div {
+    position: relative;
+    z-index: 3;
+}
+
+.nz-inventory-collection-container .nz-grid-container-div .nz-copy-to-clipboard-div .nz-copy-to-clipboard-only {
+    top: 4px;
+}
+
+/* Shift copy button so it sits next to the column filter icon */
+.nz-inventory-collection-container .nz-show-column-filter .nz-copy-to-clipboard-only {
+    left: 32px !important;
+    top: 4px !important;
+}
+
+/* Pinned index column width to fit both column filter and copy/download icons (matching ForensicLog) */
+.nz-inventory-collection-container .ag-pinned-left-header,
+.nz-inventory-collection-container .ag-pinned-left-header .ag-header-row,
+.nz-inventory-collection-container .ag-pinned-left-cols-container,
+.nz-inventory-collection-container .ag-pinned-left-cols-container .ag-row,
+.nz-inventory-collection-container .ag-header-cell[col-id="index-cell"],
+.nz-inventory-collection-container .ag-cell[col-id="index-cell"],
+.nz-inventory-collection-container .nz-index-cell,
+.nz-inventory-collection-container .ag-horizontal-left-spacer {
+    width: 65px !important;
+    min-width: 65px !important;
+    max-width: 65px !important;
+}

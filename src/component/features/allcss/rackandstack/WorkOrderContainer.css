@@ -1,0 +1,8 @@
+.nz-delivery-log-container {
+    display: flex;
+    flex-direction: column;
+}
+.nz-delivery-log-container .nz-delivery-log-content {
+    flex-grow: 1;
+    overflow: hidden;
+}

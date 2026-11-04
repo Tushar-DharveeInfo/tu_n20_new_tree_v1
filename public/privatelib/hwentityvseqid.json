@@ -1,0 +1,7499 @@
+[
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "A to D Converter",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "A-Net Distributor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Accelerator",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Access Card",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Access Point",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Access Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Access Unit",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Accessory",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Active Balancer",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Active Coupler",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Active Coupler",
+    "EQID": "EQID",
+    "EntityName": "TJ",
+    "EntityShortName": "AV",
+    "CustomEntity": "1"
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Active Coupler",
+    "EQID": "",
+    "EntityName": "Yadav",
+    "EntityShortName": "AV",
+    "CustomEntity": "1"
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Active Hub",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Active Monitor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Adapter",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Adapter Card",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Adapter Plate",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "ADSL",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Air Conditioner",
+    "EQID": "",
+    "EntityName": "__CoolingUnit",
+    "EntityShortName": "CoolUnit",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "AIT",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Amplified Terminator Unit",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Amplifier",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Analog Filter",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Analog Interface",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Analog Modem",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Analyzer",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Antenna",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Antenna Distribution System",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Antenna Relay",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Appliance",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "ATM Switch",
+    "EQID": "",
+    "EntityName": "__Switch",
+    "EntityShortName": "SWI",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Attenuator",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Alarm",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Amplifier",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Codec",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Conferencing System",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Connector",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Controller",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Converter",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Distribution Center",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Encoder",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Interface",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Leveler",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Matrix",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Meter",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Monitor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Presence Monitor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Processor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Router",
+    "EQID": "",
+    "EntityName": "__Router",
+    "EntityShortName": "Rout",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Selector",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Stereo Switcher",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Switch",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio System",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Video Modulator",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Audio Video Switcher",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Auto Attendant",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Auto Sensing Power Supply",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Automatic Transfer Switch",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Automation Controller",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "AV Amplifier",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "AV Console",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "AV Controller",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "AV Interface",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "AV Player",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "AV Processor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "AV Rack",
+    "EQID": "",
+    "EntityName": "__Rack",
+    "EntityShortName": "Rack",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "AV Receiver",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "AV Recorder",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "AV Sampler",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "AV Transcoder",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Backboard",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Baffle",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Balun",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Bar Code Scanner",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Base Station",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Bass Enhancer",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Battery",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Battery Enclosure",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Beltpack",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Bezel",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Blade Fiber",
+    "EQID": "",
+    "EntityName": "__BladeFiber",
+    "EntityShortName": "BFib",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Blade Server",
+    "EQID": "",
+    "EntityName": "__BladeServer",
+    "EntityShortName": "BSer",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Blade Storage",
+    "EQID": "",
+    "EntityName": "__BladeStorage",
+    "EntityShortName": "BStor",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "BMS SNMP Gateway",
+    "EQID": "",
+    "EntityName": "__SNMPGateway",
+    "EntityShortName": "Gway",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "BNC Connector",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Booster",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Box",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Bracket",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Breakout Box",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Bridge",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Broadband Gateway",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Broadband Modem",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Broadcast and Production Monitor",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Broadcast and Professional Monitor",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Broadcaster",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Brouter",
+    "EQID": "",
+    "EntityName": "__Router",
+    "EntityShortName": "Rout",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Buffer",
+    "EQID": "",
+    "EntityName": "__Printer",
+    "EntityShortName": "Prnt",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Bus Card",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Bus Extender",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Busbar",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cabinet",
+    "EQID": "",
+    "EntityName": "__Rack",
+    "EntityShortName": "Rack",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cabinet Fan",
+    "EQID": "",
+    "EntityName": "__Fan",
+    "EntityShortName": "Fan",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Cable",
+    "MfgEqType": "Cable",
+    "EQID": "",
+    "EntityName": "__Cable",
+    "EntityShortName": "Cabl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cable Hanger",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cable Manager",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cable Modem",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cable Ringer",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cable Tester",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cable Wiring Block",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Call Processor",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Camcorder",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Camera",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Camera Controller",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Camera Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cantilever Kit",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Card",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Card Personalization System",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Card Reader Writer",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Case",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "CAU",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "CD Cassette Player",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "CD Player",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "CD-Recorder",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "CD-ROM",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "CD-ROM Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Center Channel Speaker",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Central Command Center",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Channel Bank",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Channel Strip",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Chassis",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Circuit Breaker",
+    "EQID": "",
+    "EntityName": "__CircuitBreaker",
+    "EntityShortName": "Circ",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Circuit Tester",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Client",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cluster Controller",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Codec",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Combiner",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Comm Card",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Communication Adapter",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Communication Controller",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Communication Line Protector",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Communication Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Composer",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Compressor-Limiter",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Computer Chassis",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Computer Clock",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Computer Housing",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Computer Monitor",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Concentrator",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Connecting Block",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Connection Center",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Connector",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Connector Box",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Console",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Console Server",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Content Producer",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Content Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Control Panel",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Control Processor",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Controller",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Controller-Amplifier",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Converter",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cooler",
+    "EQID": "",
+    "EntityName": "__CoolingUnit",
+    "EntityShortName": "CoolUnit",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cooling System",
+    "EQID": "",
+    "EntityName": "__CoolingUnit",
+    "EntityShortName": "CoolUnit",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cooling Unit",
+    "EQID": "",
+    "EntityName": "__CoolingUnit",
+    "EntityShortName": "CoolUnit",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Copier",
+    "EQID": "",
+    "EntityName": "__Printer",
+    "EntityShortName": "Prnt",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Coupler",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cover Kit",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "CPU",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Crawl System",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cross Connect",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cross Connect Panel",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cross Switch",
+    "EQID": "",
+    "EntityName": "__Switch",
+    "EntityShortName": "SWI",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Crossover Switch",
+    "EQID": "",
+    "EntityName": "__Switch",
+    "EntityShortName": "SWI",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "CRT Projector",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Crypto",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "CSU",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "CSU-DSU",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Current Eliminator",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Cymbal",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "D to A Converter",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DAS",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DAT",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Data Channel",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Data Compressor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Data Recorder",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Data Signal Distributor",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Data Switch",
+    "EQID": "",
+    "EntityName": "__Switch",
+    "EntityShortName": "SWI",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DB-Connector",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DC Power",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Decoder",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Decoder and Encoder",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Decryptor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Degausser",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Delay Unit",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Demodulator",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Desktop",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Destroyer",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Detector",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Cable",
+    "MfgEqType": "Diagram Cable",
+    "EQID": "",
+    "EntityName": "__Cable",
+    "EntityShortName": "Cabl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DialBack",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Digital Audio Recorder",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Digital Camera",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Digital Controller",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Digital Hub",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Digital Microwave Radio",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Digital Network Access",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Digital Phone System",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Digital Receiver",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Digital Recording System",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Digital Signal Processor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Digital Switching System",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Digital Television Processor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Digital Video Receiver",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Digital Word Clock",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Digitizing Tablet",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Dimmer",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DIN",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Direct Box",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Directional Tap",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Director",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Disc Player",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Dish",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Disk Drive",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Disk Recorder",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Dispatcher",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Display Unit",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Distribution Amplifier",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Distribution Frame",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Distribution Module",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Distribution Unit",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DLP Projector",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DLT",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DNX",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Docking Station",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Document Processor",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Door",
+    "EQID": "",
+    "EntityName": "__RackDoor",
+    "EntityShortName": "RkDoor",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Door Strike",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Door Video Station",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Doorbell Interface module",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Drawer",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Drive",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Drum",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Drum Module",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Dryer",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DS1 to Wireless Enet Multiplexer",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DSL",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DSU",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Duct",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Duplexer",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Duplicator",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DV Recorder",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DVD Recorder",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DVD-CD Player",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DVD-Player",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DVD-RAM",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DVD-ROM",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DVD-VCR",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "DVD-Writer",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Echo Canceller",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "ECM",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Editor Recorder",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Effects Processor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Electrical Box",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Electrical Generator",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Electronic Copyboard",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Emulator",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Enclosure",
+    "EQID": "",
+    "EntityName": "__BladeEnclosure",
+    "EntityShortName": "BEncl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Encoder",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Encryptor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Encryptor and Decryptor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Environmental Monitoring",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Equalizer",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "ESS",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Ethernet Bridge",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Ethernet Device",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Ethernet Hub",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Ethernet Switch",
+    "EQID": "",
+    "EntityName": "__Switch",
+    "EntityShortName": "SWI",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Expander",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Expansion Board",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Expansion Card",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Expansion Chassis",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Extended Battery Cabinet",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Extended Battery Module",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Extender",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Cable",
+    "MfgEqType": "Extension Cable",
+    "EQID": "",
+    "EntityName": "__Cable",
+    "EntityShortName": "Cabl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Extraction Equipment",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "FacePlate",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Fan Tray",
+    "EQID": "",
+    "EntityName": "__CoolingUnit",
+    "EntityShortName": "CoolUnit",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Fan Unit",
+    "EQID": "",
+    "EntityName": "__CoolingUnit",
+    "EntityShortName": "CoolUnit",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Fax",
+    "EQID": "",
+    "EntityName": "__Printer",
+    "EntityShortName": "Prnt",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Fax and Modem Card",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Fax Modem",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Fax Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "FDDI Concentrator",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "FDDI Switch",
+    "EQID": "",
+    "EntityName": "__Switch",
+    "EntityShortName": "SWI",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Feedback Exterminator",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Fiber",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Fiber Enclosure",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Field Termination Kit",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "FileServer",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Film Scanner",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Filter",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Firewall",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Firewire Communication Board",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Flash Card",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Flash Reader",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Flash Reader Writer",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Flexible Raceway",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Floppy Disk",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Flowcharting Symbols",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Fluorescent Light",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "FO Distribution Shelf",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "FRAD",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Frame",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Frame Relay",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Furniture",
+    "EQID": "",
+    "EntityName": "__Furniture",
+    "EntityShortName": "Furn",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Fuse Panel",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Gaming Console",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Gateway",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "General Speaker",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Generator",
+    "EQID": "",
+    "EntityName": "__GeneratorSet",
+    "EntityShortName": "GenSet",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Generic Icon",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Generic Icons",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Giga Switch",
+    "EQID": "",
+    "EntityName": "__Switch",
+    "EntityShortName": "SWI",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "GPS",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "GPU",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Graphics Accelerator",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Handheld",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Handheld Digital Storage Device",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "HardDisk",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "HDSL",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "HDTV",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Headset",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "High Definition Monitor",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Home Audio System",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Housing",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Hub",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Hub and Router",
+    "EQID": "",
+    "EntityName": "__Router",
+    "EntityShortName": "Rout",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "IDSU",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Image Editor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "IMUX",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "In-Ceiling Speaker",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "In-Wall Speaker",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Industrial",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Industrial Computer",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Inkjet Printer",
+    "EQID": "",
+    "EntityName": "__Printer",
+    "EntityShortName": "Prnt",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Input Processor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Input Tray",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Integrated Access",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Integrated Amplifier",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Integrator",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Intelligent Hub",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Interactive Whiteboard",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Intercom",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Intercom Speaker",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Interconnect Box",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Interconnect Tray",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Interface Adapter",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Interface Amplifier",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Interface Card",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Interface Connector",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Interface Module",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Internal Modem",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Internet Access",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Internet Appliance",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Intrusion Detection System",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Inverse Multiplexer",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Inverter",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "IO Card",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "IP-DSLAM",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "IR Emitter",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "IR Illuminator",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "IR Receiver",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "ISDN Modem",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "ISDNBRI",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Isolator",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Jack",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "JoyStick",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "JukeBox",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Junction Box",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Keyboard",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Keyboard Wedge",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Keypad",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Keypad-Audio",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Keypad-Lighting",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Keypad-Residential",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Keypad-Security",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Keypanel",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Kick Pad",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Kitchen Appliance",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "KVM Switch",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Labeling",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "LAN Card",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "LAN Extender",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "LAN Radio",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "LAN Switch",
+    "EQID": "",
+    "EntityName": "__Switch",
+    "EntityShortName": "SWI",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "LAN Tester",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Laptop PC",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Laser Printer",
+    "EQID": "",
+    "EntityName": "__Printer",
+    "EntityShortName": "Prnt",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "LCD Display",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "LCD Monitor",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "LCD Panel",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "LCD Projector",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "LCD TV",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Lighting Controller",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Lightning Protector",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Line Adapter",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Line Conditioner",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Line Driver",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Line Module",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Line Sharer",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "LIU",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Load Balancer",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Logic Module",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Logo",
+    "EQID": "",
+    "EntityName": "__Broadband",
+    "EntityShortName": "BrdBnd",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Logo Inserter",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Loudness Monitor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Loudspeaker",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Main Frame",
+    "EQID": "",
+    "EntityName": "__MainFrame",
+    "EntityShortName": "Mainfrm",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Management Card",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Management Unit",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Manual Switch",
+    "EQID": "",
+    "EntityName": "__Switch",
+    "EntityShortName": "SWI",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Master Station",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Matrix Switcher",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "MAU",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Maximizer",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Measuring Device",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Media Adapter",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Media Player",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Media Receiver",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Medical",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Medical Monitor",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Message Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Messaging Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Meter Panel",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Mic Line Mixer",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Microphone",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Microphone Amplifier",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Microphone Interface",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Microphone Receiver",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "MIDI Controller",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "MIDI Merger",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Mini Tower",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Mixer",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Mixer Amplifier",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Mobile Radio",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Mobile System",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Modem",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Modem Card",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Modem Eliminator",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Modem Pool",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Modem Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Modular",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Modular Patching",
+    "EQID": "",
+    "EntityName": "__PatchPanel",
+    "EntityShortName": "PP",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Modulator",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Module",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Module Blank",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Monitor",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Monitoring System",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Monoblock Amplifier",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Motion Stabilizer",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Motor",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Mounting Accessory",
+    "EQID": "",
+    "EntityName": "__MountAccessory",
+    "EntityShortName": "Mount",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Mounting Frame",
+    "EQID": "",
+    "EntityName": "__MountAccessory",
+    "EntityShortName": "Mount",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Mounting System",
+    "EQID": "",
+    "EntityName": "__MountAccessory",
+    "EntityShortName": "Mount",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Mouse",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "MP3 Player",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Multi Viewer",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Multi-Media Module",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Multiplexer",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Multiplier",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Multipurpose Copier",
+    "EQID": "",
+    "EntityName": "__Printer",
+    "EntityShortName": "Prnt",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Multipurpose Printer",
+    "EQID": "",
+    "EntityName": "__Printer",
+    "EntityShortName": "Prnt",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Multisonic Imager",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Multiswitch",
+    "EQID": "",
+    "EntityName": "__Switch",
+    "EntityShortName": "SWI",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Music Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Music System",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "MUX",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "NAU",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Network",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Network Appliance",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Network Camera",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Network Card",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Network Client",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Network Digital Audio",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Network Layout",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Network Module",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Network Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Network Terminal",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Notebook",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Optical Converter",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Optical Drive",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Optical Library",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Optical Networking System",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Optical Node",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Optical Transport",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Optimizer",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Opto-Compressor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Opto-Isolator",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Oscilloscope",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Outdoor Speaker",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Outlet",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "PABX",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "PAD",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Page Control",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Paging Microphone",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Paging Terminal",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Paging Trigger Module",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Palmtop",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Panel",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Cable",
+    "MfgEqType": "Patch Cord",
+    "EQID": "",
+    "EntityName": "__Cable",
+    "EntityShortName": "Cabl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Patch Panel",
+    "EQID": "",
+    "EntityName": "__PatchPanel",
+    "EntityShortName": "PP",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Patchbay",
+    "EQID": "",
+    "EntityName": "__PatchPanel",
+    "EntityShortName": "PP",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Pay Station",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "PBX",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "PBX Recorder",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "PC",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "PC Portable",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "PC Station",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "PCMCIA",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "PCMCIA Modem",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "PDA",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Percussion Synthesizer",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Peripheral",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Peripheral Controller",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Phone",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Phone System",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "PiercingTap",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "PIP Processor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Plasma HDTV",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Plasma Lift",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Plasma TV",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Plotter",
+    "EQID": "",
+    "EntityName": "__Printer",
+    "EntityShortName": "Prnt",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Port Module",
+    "EQID": "",
+    "EntityName": "__Module",
+    "EntityShortName": "Mod",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Portable Radio",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "POS",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power Adapter",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power Amplifier",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power Array",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power Bar",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Cable",
+    "MfgEqType": "Power Cable",
+    "EQID": "",
+    "EntityName": "__Cable",
+    "EntityShortName": "Cabl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power Chassis",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power Conditioner",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power Control",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power Distribution Unit",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power Equipment",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power Filter",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power Manager",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power Meter",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power Panel",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power Strip",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power Supply",
+    "EQID": "",
+    "EntityName": "__Module",
+    "EntityShortName": "Mod",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power Switch",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Power System",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Preamplifier",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Presentation Player",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Print Buffer",
+    "EQID": "",
+    "EntityName": "__Printer",
+    "EntityShortName": "Prnt",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Print Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Print Sharer",
+    "EQID": "",
+    "EntityName": "__Printer",
+    "EntityShortName": "Prnt",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Printer",
+    "EQID": "",
+    "EntityName": "__Printer",
+    "EntityShortName": "Prnt",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Private Exchange",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Probe",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Processor",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Processor Card",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Projection Screen",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Projection Television",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Projector",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Projector Lift",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Projector Mount",
+    "EQID": "",
+    "EntityName": "__MountAccessory",
+    "EntityShortName": "Mount",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Protector Panel",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Proxy Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Pulse Generator",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Rack",
+    "EQID": "",
+    "EntityName": "__Rack",
+    "EntityShortName": "Rack",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Rack Accessory",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Rack Cabinet",
+    "EQID": "",
+    "EntityName": "__Rack",
+    "EntityShortName": "Rack",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Rack Chassis",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Rack Enclosure",
+    "EQID": "",
+    "EntityName": "__Rack",
+    "EntityShortName": "Rack",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Rack Fanout",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Rack Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Radio Modem",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Radio Wireless Modem",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "RAID",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "RAID Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Rear Projection Television",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Receiver",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Receptacle",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Recorder",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Rectifier",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Remote",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Remote Access",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Remote Control Switcher",
+    "EQID": "",
+    "EntityName": "__Switch",
+    "EntityShortName": "SWI",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Remote KVM",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Remote Power Panel",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Repeater",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Replaceable Disk",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Replicator",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Restaurant Appliance",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Reverb",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "RF Receiver",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "RFID Asset Tag",
+    "EQID": "",
+    "EntityName": "__RFIDTag",
+    "EntityShortName": "RFTag",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "RFID Locator Tag",
+    "EQID": "",
+    "EntityName": "__RFIDTag",
+    "EntityShortName": "RFTag",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "RFID Reader",
+    "EQID": "",
+    "EntityName": "__RFIDReader",
+    "EntityShortName": "RFReader",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "RFID Room Locator",
+    "EQID": "",
+    "EntityName": "__RFIDReader",
+    "EntityShortName": "RFReader",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "RFID Sensor Tag",
+    "EQID": "",
+    "EntityName": "__RFIDTag",
+    "EntityShortName": "RFTag",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "RJ-Connector",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Route Controller",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Router",
+    "EQID": "",
+    "EntityName": "__Router",
+    "EntityShortName": "Rout",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Routing Switcher",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "RPS",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "s-Video Switcher",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Satellite Dish",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Satellite Radio",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Satellite Receiver",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Satellite Receiver Recorder",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Satellite Speaker",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Satellite Terminal",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Scaler",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Scan Converter",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Scanner",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "SCSI",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "SCSI Drive",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "SCSI Expander",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "SCSI Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "SCSI Switch",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "SDSL",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "SDU",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Secure Console Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Security Camera",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Security Monitor",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Security System",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Sensor",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Separator",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Cable",
+    "MfgEqType": "Serial Cable",
+    "EQID": "",
+    "EntityName": "__Cable",
+    "EntityShortName": "Cabl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Server Switch",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Set-top Box",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Shelf",
+    "EQID": "",
+    "EntityName": "__Shelf",
+    "EntityShortName": "Shelf",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Signal Generator",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Signal Router Monitor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Signal to Signal Converter",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Simulator",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Slot",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Smart PDU",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Software",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Software Application",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Sound Projector",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Sound System",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Speaker",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Speaker Distributor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Speaker Precision Panel",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Speaker Processor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Speaker Selector",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Speaker Switch",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Splitter",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Spooler",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Stacking Shelf",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Stage Amplifier",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Stage Monitor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Stand",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Statistical Multiplexer",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Stereo Generator",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Stereo Processor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Storage Cabinet",
+    "EQID": "",
+    "EntityName": "__Storage",
+    "EntityShortName": "Stor",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Storage Enclosure",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Storage IP",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Storage Router",
+    "EQID": "",
+    "EntityName": "__Router",
+    "EntityShortName": "Rout",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Storage Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Storage System",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Streamer",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Strobe Light",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Studio Monitor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Studio Sync Generator",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Subscriber Unit",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Subwoofer",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Support Leg",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Surface Mount Box",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Surge Protector",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Surround Processor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Surround Sound Speaker System",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Surround Speaker",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Switch",
+    "EQID": "",
+    "EntityName": "__Switch",
+    "EntityShortName": "SWI",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Switch Card",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Switch Router",
+    "EQID": "",
+    "EntityName": "__Switch",
+    "EntityShortName": "SWI",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Switchboard",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Symbol",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Synchronizer",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "System Controller",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Tablet",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Tablet PC",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Tap",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Tape Drive",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "TBC Synchronizer",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "TDM",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Telco",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Telco Connector",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Telco Switcher",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Telco Terminal",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Telecine Keyer",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Telephone Accessory",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Telephone Interface",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Telephony Gateway",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Telescope",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Television",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Temperature Power Controller",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Temperature Sensor",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Terminal",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Terminal Adapter",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Terminal Block",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Terminal Monitor",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Terminal Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Termination Block",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Termination Panel",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Termination Unit",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Terminator",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Test Equipment",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Thermostat",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Time Base Corrector",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Time Code Generator",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Time Code Refresher",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Timecode DAT",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Timer Drain",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Timing System",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Token Ring Switch",
+    "EQID": "",
+    "EntityName": "__Switch",
+    "EntityShortName": "SWI",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "TokenRing Bridge",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Tool",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Touch PAD",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Touch Panel",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Touchscreen",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Tower",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Tower Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Trackball",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Transaction Processor",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Transceiver",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Transducer",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Transformer",
+    "EQID": "",
+    "EntityName": "__UtilityPower",
+    "EntityShortName": "Util",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Translational Bridge",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Translator",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Transmitter",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Transport",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Transport Stream Monitor",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Transverter",
+    "EQID": "",
+    "EntityName": "__Appliance",
+    "EntityShortName": "Appl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Tray",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Trigger Block",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Trough",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Tube TV",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Tuner",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Turntable",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Tweeter",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Underfloor Fitting",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Underfloor Stand Assembly",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Underfloor Static Stand",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Underwater Speaker",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "UPS",
+    "EQID": "",
+    "EntityName": "__UPS",
+    "EntityShortName": "UPS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "USB IP Phone",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Utility Company",
+    "EQID": "",
+    "EntityName": "__PowerGrid",
+    "EntityShortName": "PwGrid",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Cable",
+    "MfgEqType": "UTP Cable",
+    "EQID": "",
+    "EntityName": "__Cable",
+    "EntityShortName": "Cabl",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "V.35",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "VCR",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Vehicle-Mount Computer",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Verifier",
+    "EQID": "",
+    "EntityName": "__Printer",
+    "EntityShortName": "Prnt",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Adapter",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Bulletin Board",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Camera",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Conferencing System",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Controlled Relay",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Distribution Module",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Distribution Switch",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Encoder",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Entry System",
+    "EQID": "",
+    "EntityName": "__Security",
+    "EntityShortName": "Sec",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Generator",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Marker",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Messaging System",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video over Ethernet Transceiver",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Processor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Quad",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Recorder",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Selector",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Video Server",
+    "EQID": "",
+    "EntityName": "__Server",
+    "EntityShortName": "Serv",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Visual Presenter",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Visualizer",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Voice Card",
+    "EQID": "",
+    "EntityName": "__Card",
+    "EntityShortName": "Card",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Voice Over IP",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Voice Processor",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Voice Recorder",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Voice-Activated Relay",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Voltage Regulator",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Voltage Stabilizer",
+    "EQID": "",
+    "EntityName": "__PDU",
+    "EntityShortName": "PDU",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Volume Controller",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Volume Level Indicator",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "VPN",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "VSU",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Walkman",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wall Mount Box",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wall Mounted TV",
+    "EQID": "",
+    "EntityName": "__Display",
+    "EntityShortName": "Disp",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wall Plate",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "WAN Extender",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Watermark",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Waveform Monitor",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Web Camera",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wheel",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Window",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Window Shade",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wire Basket Cable Tray",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wired Wallbox Power Module",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Adapter",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Antenna",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless AV Receiver",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Base Station",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Bridge",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Control Unit",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Converter",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Dimmer",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Extender",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Keypad",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless LAN Card",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Microphone",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Modem",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Network",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless PC Card",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Phone",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Router",
+    "EQID": "",
+    "EntityName": "__Router",
+    "EntityShortName": "Rout",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Speaker",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Switch",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless System",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Terminal",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Transceiver",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wireless Transmitter",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Wiring Block",
+    "EQID": "",
+    "EntityName": "__OtherDevice",
+    "EntityShortName": "Other",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Workstation",
+    "EQID": "",
+    "EntityName": "__Workstation",
+    "EntityShortName": "WS",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "Writing Pad",
+    "EQID": "",
+    "EntityName": "__Accessory",
+    "EntityShortName": "Acc",
+    "CustomEntity": ""
+  },
+  {
+    "IsNZ": "1",
+    "HWType": "Device",
+    "MfgEqType": "XLR Connector Kit",
+    "EQID": "",
+    "EntityName": "__AV",
+    "EntityShortName": "AV",
+    "CustomEntity": ""
+  }
+]

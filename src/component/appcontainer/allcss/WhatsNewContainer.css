@@ -1,0 +1,91 @@
+.nz-whatsnew-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    max-height: 100%;
+    overflow: hidden;
+    background-color: var(--bgform);
+}
+
+.nz-whatsnew-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    height: 42px;
+    min-height: 42px;
+    padding: 0 16px;
+    background-color: var(--subheaderbg);
+    border-bottom: 1px solid var(--borderandscrollbar);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    flex-shrink: 0;
+    z-index: 10;
+}
+
+.nz-whatsnew-header-left {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.nz-whatsnew-header-left .nz-label-container {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--textprimary);
+}
+
+.nz-whatsnew-header-right {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.nz-whatsnew-checkbox-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    user-select: none;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--textprimary);
+    padding: 4px 8px;
+    border-radius: 4px;
+    transition: background-color 0.15s ease;
+}
+
+.nz-whatsnew-checkbox-label:hover {
+    background-color: var(--hover);
+}
+
+.nz-whatsnew-checkbox-label input[type="checkbox"] {
+    cursor: pointer;
+    margin: 0;
+}
+
+.nz-whatsnew-close-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.15s ease;
+}
+
+.nz-whatsnew-close-btn:hover {
+    background-color: var(--hover);
+}
+
+.nz-whatsnew-body {
+    flex: 1;
+    min-height: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    background-color: var(--bgform);
+    position: relative;
+}

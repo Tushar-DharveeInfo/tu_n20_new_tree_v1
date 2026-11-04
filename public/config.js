@@ -1,0 +1,25 @@
+window.appSettings = {
+  TENANT_NICKNAME: 'n-netzoomcom-47jrj',
+  TENANT_DISPLAY_NAME: 'NetZoom',
+  AUTH_TYPE: 'fb',
+  API_AT: 'n20api',
+  NODE_ENV: 'production',
+  BASIC_AUTH_ENDPOINT: '/api/login.aspx',
+  NETZOOM_AUTH_ENDPOINT: '/api/login.aspx',
+  DEPLOYMENT: 'OnPremises',
+  DATE_INSTALLED: '2026-06-01',
+  DATE_LASTUPDATED: '2026-06-01',
+  DEPLOYMENT_N20_API_URL: '/n20api',
+  DEPLOYMENT_N20_API_BASEURL: 'https://n20a.netzoom.com',
+  DEPLOYMENT_DCMLISTENER_API_URL: '/dcmlistener',
+  DEPLOYMENT_EXPSERVER_API_URL: '/expapi',
+  DEPLOYMENT_NZINTHUB_API_URL: '/nzinthubapi',
+  DEPLOYMENT_DATE_INSTALLED: '2026-06-01',
+  DEPLOYMENT_DATE_LASTUPDATED: '2026-06-01',
+  FIREBASE_API_KEY: 'AIzaSyAIJWkLaM7kYogZ4FJWCNq3sWvK4N2awxY',
+  FIREBASE_AUTH_DOMAIN: 'n20-fb-01.firebaseapp.com',
+  FIREBASE_PROJECT_ID: 'n20-fb-01',
+  FIREBASE_APP_ID: '1:608261150760:web:6d7e0eb75515a000657d1d',
+};
+
+window.APP_CONFIG = window.appSettings;

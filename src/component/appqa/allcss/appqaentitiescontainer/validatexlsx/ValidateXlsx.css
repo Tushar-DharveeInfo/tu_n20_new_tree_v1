@@ -1,0 +1,7 @@
+.xlsx-page {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    min-height: 0;
+    height: 100%;
+}

@@ -1,0 +1,181 @@
+.nz-cabling-container {
+    height: 100%;
+    min-height: 80px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border: 1px solid var(--borderandscrollbar);
+}
+
+.nz-cabling-div {
+    height: 100%;
+    overflow: auto;
+}
+
+.nz-cabling-grid-with-view .nz-cabling-div {
+    max-height: 50%;
+    height: auto;
+    overflow: auto;
+    min-height: 50%;
+}
+
+.nz-cabling-container .ag-theme-alpine {
+    position: unset !important;
+}
+
+.cablingCompoDiv .nz-form-title-header .nz-label-container {
+    font-weight: 600 !important;
+}
+
+.nz-grid-container-div .nz-right-mouse-manu-icon {
+    visibility: hidden;
+}
+
+.nz-grid-container-div .ag-cell-focus .nz-right-mouse-manu-icon {
+    visibility: visible;
+}
+
+.nz-active-port,
+.ag-cell-focus.nz-active-port,
+.ag-theme-alpine .ag-ltr .ag-cell-focus:not(.ag-cell-range-selected):focus-within.nz-active-port {
+    border: 1px solid red !important;
+}
+
+.cablingCompoDiv,
+.cablingCompoDiv .MuiGrid-item,
+.nz-cabling-container .ag-center-cols-container {
+    user-select: none !important;
+}
+
+.nz-cablingCompoDiv {
+    width: 100%;
+    height: calc(40px + var(--spacing-1));
+}
+
+.nz-cablingCableCombo {
+    display: flex;
+    gap: var(--spacing-1)
+}
+
+.nz-coldef-from-device-column,
+.nz-from-selected {
+    background-color: rgba(174, 107, 59, 0.20);
+}
+
+.nz-coldef-to-device-column,
+.nz-todevice-selected {
+    background-color: rgba(105, 197, 7, 0.20);
+}
+
+
+.ag-row-hover .nz-coldef-from-device-column {
+    background-color: var(--bg-color-hover) !important;
+}
+
+.ag-row-hover .cableD {
+    background-color: var(--bg-color-hover) !important;
+}
+
+.ag-row-hover .nz-coldef-to-device-column {
+    background-color: var(--bg-color-hover) !important;
+}
+
+.nz-cabling-isReadOnly {
+    height: 100%;
+    overflow: auto;
+}
+
+.nz-cabling-grid-with-view .nz-cabling-isReadOnly {
+    max-height: 50%;
+    height: auto;
+    overflow: auto;
+    min-height: 50%;
+}
+
+.nz-cabling-isReadOnly .nz-grid-container-div {
+    height: auto !important;
+}
+
+.nz-cabling-view {
+    flex: 1;
+    overflow: hidden;
+}
+
+.nz-cabling-container .ag-root-wrapper-body.ag-layout-normal {
+    flex: 1 1 auto;
+    height: 100%;
+    min-height: 0;
+}
+
+.nz-cabling-div .nz-grid-container-div,
+.nz-cabling-isReadOnly .nz-grid-container-div {
+    height: auto !important;
+    white-space: normal;
+    width: 100% !important;
+    min-width: 100% !important;
+    overflow: auto;
+}
+
+.nz-cabling-container .nz-ag-container,
+.nz-cabling-container .ag-root-wrapper,
+.nz-cabling-container .ag-header {
+    width: 100% !important;
+}
+
+.nz-cabling-div .nz-grid-container-div:not(:first-of-type) {
+    margin-top: 12px;
+}
+
+.nz-cabling-div .nz-highlight-header {
+    background-color: #ffc80082 !important;
+}
+
+.nz-cabling-div .nz-highlight-header .ag-header-cell {
+    background-color: #ffc80082 !important;
+    /* customize as needed */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+    color: var(--selection-text) !important;
+}
+
+.nz-highlight-header .ag-header-cell-text {
+    color: var(--textprimary) !important;
+}
+
+.nz-cabling-grid-and-view-container {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    overflow: hidden;
+    gap: var(--spacing-1);
+}
+
+
+
+.nz-cabling-rtm .nz-overlay-strip-container {
+    height: 100%;
+}
+
+.nz-cabling-container .nz-cabling-grid-and-view-container .nz-grid-container-div {
+    padding: 0px var(--spacing-1);
+}
+
+.nz-cabling-container .nz-cabling-view-container {
+    gap: var(--spacing-1);
+    padding: var(--spacing-0);
+    border-top: 1px solid var(--borderandscrollbar);
+}
+
+.nz-cabling-container .nz-copy-to-clipboard-div .nz-copy-to-clipboard-only {
+    top: 4px;
+    left: 24px;
+}
+
+.nz-cabling-container .ag-row-hover:not(.ag-full-width-row)::before {
+    background-color: var(--bg-color-hover) !important;
+}
+
+.nz-cabling-container .nz-cable-cabling-combo {
+    width: 100%;
+}

@@ -1,0 +1,21 @@
+.nz-dashboard-chart-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    padding: 0px;
+}
+
+.nz-dashboard-chart-container .nz-main-header {
+    justify-content: start;
+}
+
+.nz-dashboard-chart-container .nz-main-header .nz-action-image-container {
+    margin-left: 5px;
+}
+
+
+.nz-dashboard-chart-container .nz-sidebar-with-notification {
+    position: unset !important;
+}

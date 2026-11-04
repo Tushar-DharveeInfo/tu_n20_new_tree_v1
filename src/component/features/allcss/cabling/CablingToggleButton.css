@@ -1,0 +1,9 @@
+.nz-cabling-toggle-button-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.nz-cabling-toggle-button-container .nz-sub-header {
+    width: 100%;
+}

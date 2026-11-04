@@ -1,0 +1,88 @@
+.nz-card-container {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border: 1px solid var(--borderandscrollbar);
+    border-radius: 6px;
+    background-color: var(--bgfeaturepane1);
+    box-sizing: border-box;
+    min-height: 0;
+}
+
+.nz-card-container-header {
+    width: 100%;
+    min-height: var(--node_height);
+    line-height: var(--node_height);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--spacing-2);
+    padding: 0px var(--text-content-indent);
+    box-sizing: border-box;
+    font-family: var(--fontfamily);
+    font-size: var(--default_font_size);
+    font-weight: 700;
+    color: var(--textprimary);
+    background-color: var(--subheaderbg);
+    border-bottom: 1px solid var(--borderandscrollbar);
+}
+
+.nz-card-container-header-content {
+    flex-grow: 1;
+    min-width: 0;
+    display: flex;
+    gap: var(--spacing-1)
+}
+
+.nz-card-container-collapse-button {
+    width: var(--node_height);
+    height: var(--node_height);
+    min-width: var(--node_height);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background: transparent;
+    color: var(--textprimary);
+    cursor: pointer;
+    padding: 0;
+}
+
+.nz-card-container-collapse-button:hover {
+    background-color: color-mix(in srgb, var(--borderandscrollbar) 35%, transparent);
+}
+
+.nz-card-container-collapse-arrow {
+    width: 8px;
+    height: 8px;
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+    transform: rotate(45deg);
+    transition: transform 0.2s ease;
+}
+
+.nz-card-container-collapsed .nz-card-container-collapse-arrow {
+    transform: rotate(-45deg);
+}
+
+.nz-card-container-collapsed .nz-card-container-header {
+    border-bottom: none;
+}
+
+.nz-card-container-content {
+    width: 100%;
+    height: auto;
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.nz-card-container-header-titile-with-sidebar-open {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+}

@@ -1,0 +1,89 @@
+.nz-data-center-hierarchy,
+.nz-data-center-tree-search {
+  height: 100%;
+}
+
+.nz-data-center-tree-div {
+  height: calc(100% - 40px);
+}
+
+.nz-checkbox-button .nz-form-control-labeled {
+  margin-top: 0px !important;
+}
+
+.nz-data-center-tree-search .nz-searchControl {
+  margin: 5px 0px;
+}
+
+.rc-tree-treenode-disabled .rc-tree-title {
+  opacity: 0.5;
+}
+
+.nz-list-vertical .nz-action-list-main {
+  width: 100%;
+}
+
+.nz-data-center-hierarchy {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+.nz-data-center-hierarchy-left {
+  width: 100%;
+  height: 100%;
+}
+
+.nz-data-center-hierarchy-right {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.nz-data-center-hierarchy-right .nz-grid-dialog-container-div,
+.nz-data-center-hierarchy-right .nz-grid-main-container-div {
+  height: 100%;
+}
+
+.nz-form-control-labeled .nz-feature-icon>div {
+  width: 100% !important;
+}
+
+.rc-tree-treenode-selected .nz-node-kebab-copy-icon {
+  display: flex;
+}
+
+.nz-node-kebab-copy-icon {
+  display: none;
+}
+
+.nz-data-center-hierarchy .nz-grid-main-container-div {
+  display: flex;
+  flex-direction: column;
+}
+
+.nz-data-center-hierarchy .nz-grid-main-container-div .nz-vertical-grid-scroll {
+  flex-grow: 1;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.nz-data-center-hierarchy .nz-grid-main-container-div .nz-vertical-grid-scroll .nz-OnetoOne-Grid {
+  height: unset;
+}
+
+.nz-data-center-hierarchy .nz-data-center-hierarchy-right .nz-property-grid-container {
+  height: 100%;
+}
+
+.nz-data-center-hierarchy .nz-grid-container-div {
+  padding: 0px;
+}
+
+.nz-data-center-hierarchy-right .nz-grid-container-div .nz-copy-to-clipboard-div .nz-copy-to-clipboard-only {
+  top: 4px;
+}
+
+.nz-data-center-hierarchy-right .nz-grid-container-div .nz-copy-to-clipboard-div.nz-showPropertyHeader-with-download .nz-copy-to-clipboard-only {
+  top: 28px;
+}

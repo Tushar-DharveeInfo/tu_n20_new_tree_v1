@@ -1,0 +1,14 @@
+.nz-base-network-trace-container {
+    overflow: hidden;
+    margin: var(--spacing-0) 0px;
+    scrollbar-gutter: stable;
+}
+
+.nz-base-network-trace-container:hover {
+    overflow-y: auto;
+}
+
+.nz-network-trace {
+    display: flex;
+    flex-direction: column;
+}

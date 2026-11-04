@@ -1,0 +1,14 @@
+.nz-base-power-trace-container {
+    overflow: hidden;
+    margin: 0px;
+    scrollbar-gutter: stable;
+}
+
+.nz-base-power-trace-container:hover {
+    overflow-y: auto;
+}
+
+.nz-power-trace {
+    display: flex;
+    flex-direction: column;
+}

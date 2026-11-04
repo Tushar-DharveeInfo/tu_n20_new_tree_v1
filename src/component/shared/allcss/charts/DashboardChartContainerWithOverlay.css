@@ -1,0 +1,54 @@
+.nz-layout-container .nz-chart-and-ai-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.nz-chart-and-ask-chart-container,
+.nz-chart-and-ask-chart-container-div {
+    height: 100%;
+    width: 100%;
+}
+
+.nz-chart-hidden {
+    display: none !important;
+
+}
+
+.nz-chart-and-ai-container .nz-sub-header {
+    flex-shrink: 0;
+}
+
+.nz-chart-and-ai-container .nz-chart-ovelay-container {
+    flex-grow: 1;
+    height: 100%;
+    width: 100%;
+}
+
+.nz-chart-and-ai-container .nz-left-pane {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.nz-chart-and-ai-container .nz-chart-and-ai-splitter {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.nz-site-ask-componet {
+    flex-grow: 1;
+    overflow: hidden;
+    width: 100%;
+}
+
+.nz-chart-and-ask-chart-container-div {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}

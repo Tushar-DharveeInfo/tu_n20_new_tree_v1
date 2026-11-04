@@ -1,0 +1,8 @@
+.nz-base-bs-diagram-container {
+    overflow: hidden;
+    margin: var(--spacing-0) 0px;
+    scrollbar-gutter: stable;
+}
+.nz-base-bs-diagram-container:hover {
+    overflow-y: auto;
+}

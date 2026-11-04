@@ -1,0 +1,134 @@
+.nz-edit-device-replacement-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.nz-edit-device-replacement-container .nz-edit-device-replacement-content {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.nz-edit-device-replacement-container .nz-edit-device-replacement-pane2,
+.nz-edit-device-replacement-container .nz-edit-device-replacement-pane4 {
+    overflow: hidden;
+    gap: var(--spacing-1);
+}
+
+.nz-edit-device-replacement-container .nz-replacement-hidden {
+    display: none;
+}
+
+.nz-edit-device-replacement-container .nz-edit-device-replacement-pane2 .nz-replacement-container {
+    width: 100%;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.nz-edit-device-replacement-container .nz-edit-device-replacement-pane2 .nz-replacement-container .nz-placement {
+    overflow: hidden;
+}
+
+.nz-edit-device-replacement-container .nz-edit-device-replacement-pane2 .nz-replacement-container .nz-replacement-container {
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+.nz-edit-device-replacement-container .nz-chart-draggable {
+    width: auto;
+}
+
+.nz-edit-device-replacement-container .nz-edit-device-replacement-port-grid .ag-root-wrapper-body.ag-layout-normal {
+    height: 100%;
+}
+
+.nz-edit-device-replacement-container .nz-edit-device-replacement-pane2 .nz-h-auto,
+.nz-edit-device-replacement-container .nz-edit-device-replacement-pane4 .nz-h-auto {
+    width: 100%;
+    height: auto;
+    flex-shrink: 0;
+}
+
+.nz-edit-device-replacement-container .nz-edit-device-replacement-pane2 .nz-edit-device-replacement-port-grid,
+.nz-edit-device-replacement-container .nz-edit-device-replacement-pane4 .nz-edit-device-replacement-port-grid {
+    height: auto;
+    flex-shrink: 0;
+}
+
+.nz-edit-device-replacement-container .nz-edit-device-replacement-pane2 .nz-replacement-container>.nz-h-auto .ag-root-wrapper-body.ag-layout-normal,
+.nz-edit-device-replacement-container .nz-edit-device-replacement-pane4 .nz-replacement-container>.nz-h-auto .ag-root-wrapper-body.ag-layout-normal {
+    height: 100%;
+}
+
+.nz-edit-device-replacement-container .nz-error-message {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding: var(--spacing-1);
+}
+
+.nz-edit-device-replacement-container .nz-dc-explorer-container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+}
+
+.nz-edit-device-replacement-container .nz-dc-explorer-container>div:last-of-type {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.nz-edit-device-replacement-container .nz-replace-container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.nz-edit-device-replacement-container .nz-replace-container .nz-sub-header {
+    flex-shrink: 0;
+}
+
+.nz-edit-device-replacement-container .nz-replace-container .nz-replacement-container {
+    width: 100%;
+    flex: 1 1 0;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.nz-edit-device-replacement-container .nz-replace-container .nz-toggle-container {
+    flex-shrink: 0;
+}
+
+.nz-toggle-container-transfer {
+    padding: var(--spacing-2);
+}
+
+.nz-edit-device-replacement-port-grid .ag-row,
+.nz-edit-device-replacement-port-grid .ag-cell {
+    cursor: grab !important;
+    user-select: none !important;
+    -webkit-user-select: none !important;
+}
+
+.nz-edit-device-replacement-port-grid .ag-row:active,
+.nz-edit-device-replacement-port-grid .ag-cell:active {
+    cursor: grabbing !important;
+}
+
+.nz-readonly-port-grid .nz-edit-device-replacement-port-grid .ag-row,
+.nz-readonly-port-grid .nz-edit-device-replacement-port-grid .ag-cell,
+.nz-readonly-port-grid .nz-edit-device-replacement-port-grid .ag-row:active,
+.nz-readonly-port-grid .nz-edit-device-replacement-port-grid .ag-cell:active {
+    cursor: default !important;
+    user-select: text !important;
+    -webkit-user-select: text !important;
+}

@@ -1,0 +1,114 @@
+.nz-delegate-to-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.nz-delegate-to-container .nz-grid-container-div {
+    padding: 0px;
+    padding-top: var(--spacing-1);
+}
+
+.nz-delegate-to-container .nz-del-grid-container {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.nz-delegate-to-container .nz-del-grid-container .nz-grid-dialog-container-div {
+    height: 100%;
+}
+
+.nz-delegate-to-container .nz-del-grid-container .nz-grid-dialog-container-div .nz-grid-main-container-div {
+    height: 100%;
+}
+
+.nz-delegate-to-container .nz-qa-bar-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 40px;
+    min-height: 40px;
+    max-height: 40px;
+    font-weight: 700;
+    font-family: var(--fontfamily);
+    font-size: var(--default_font_size);
+    background-color: var(--bgfeaturepane1);
+    align-items: center;
+    color: var(--textprimary);
+}
+
+.nz-delegate-to-container .nz-qa-bar-container .nz-qa-bar-title {
+    padding: 0px 5px;
+}
+
+.nz-del-grid-container .nz-OnetoOne-Grid {
+    height: 100%;
+}
+
+.nz-delegate-to-container .nz-grid-copy-row-icon {
+    left: 30px;
+    z-index: 99;
+}
+
+.nz-delegate-to-container .nz-right-mouse-action-cell {
+    display: none !important;
+}
+
+.nz-delegate-to-container .nz-del-card-container {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: var(--spacing-2);
+    overflow: auto;
+    padding: var(--spacing-1);
+}
+
+.nz-delegate-to-container .nz-delegate-status-message {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+    padding: var(--spacing-1);
+}
+
+.nz-delegate-to-container .nz-del-card-main {
+    height: auto;
+    min-height: auto !important;
+}
+
+.nz-delegate-to-container .nz-del-card-main .nz-dynamic-card-content {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.nz-delegate-to-container .nz-del-card-main .nz-dynamic-card-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    flex-shrink: 0;
+}
+
+.nz-delegate-to-container .nz-del-card-main .nz-dynamic-card-main-content {
+    flex: 1 1 auto;
+    min-width: 0;
+    width: 100%;
+}
+
+.nz-delegate-to-container .nz-del-card-main .nz-cardlayout-content {
+    width: 100%;
+    min-width: 0;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.nz-delegate-to-container .nz-del-card-main .nz-cardlayout-response-details {
+    width: 100%;
+    text-align: left;
+    padding: var(--card-padding-0) 0;
+}

@@ -1,0 +1,11 @@
+.nz-transfer-container,
+.nz-message-layout {
+    width: 100%;
+    height: 100%;
+}
+
+.nz-message-layout {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}

@@ -1,0 +1,20 @@
+.nz-Inbound-Assets-Container {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.nz-InboundAssetContainer-Assets-Container .p-splitter {
+    height: 100%;
+    width: 100%;
+}
+
+.nz-Inbound-assest-wrapper {
+    height: 100%;
+    width: 100%;
+}
+
+.nz-Inbound-Assets-Container .nz-form-list-container>div {
+    height: 100%;
+    width: 100%;
+}

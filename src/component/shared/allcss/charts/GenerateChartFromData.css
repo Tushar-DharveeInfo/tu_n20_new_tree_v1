@@ -1,0 +1,14 @@
+.nz-chart-memory-host,
+.nz-chart-memory-url,
+.nz-chart-memory-url .chart-wh-100,
+.nz-chart-memory-url .chart-smallcard,
+.nz-chart-memory-url .chart-main-div {
+    height: 100%;
+    width: 100%;
+}
+
+.nz-chart-memory-url .chart-main-div > div,
+.nz-chart-memory-url .chart-main-div canvas {
+    height: 100% !important;
+    width: 100% !important;
+}

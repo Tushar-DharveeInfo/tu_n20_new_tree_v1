@@ -1,0 +1,18 @@
+.nz-app-qa-entities {
+    flex-grow: 1;
+    overflow: hidden;
+    background-color: var(--bgexplorer);
+    position: relative;
+}
+
+.nz-app-qa-entities .nz-nav-bar {
+    height: 100%;
+    flex: 1;
+    box-sizing: border-box;
+    width: 100%;
+    border: 2px solid var(--borderandscrollbar);
+}
+
+.nz-app-qa-entities .nz-sidebar-with-notification {
+    position: unset !important;
+}

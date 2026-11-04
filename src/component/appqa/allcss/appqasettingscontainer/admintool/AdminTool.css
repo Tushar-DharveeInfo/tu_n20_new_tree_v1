@@ -1,0 +1,144 @@
+.nz-admin-tasks-container {
+  height: 100%;
+}
+
+.nz-admin-task-grid {
+  height: 100%;
+  width: 100%;
+}
+
+.nz-admin-tasks-container .nz-admin-container {
+  display: flex;
+  flex-direction: column;
+  height: calc(100% - 0px);
+  padding: 0px;
+  padding-bottom: 0px;
+  box-sizing: border-box;
+  background-color: var(--bgexplorer);
+}
+
+.ag-cell-value .MuiFormGroup-root .MuiFormControlLabel-root {
+  margin-left: 0px;
+}
+
+.nz-header-contant {
+  flex: 0 0 auto;
+  margin-bottom: 5px;
+}
+
+.nz-header-contant h3 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.nz-header-contant p {
+  margin: 5px 0;
+  font-size: 1rem;
+  color: #666;
+}
+
+.nz-action-div {
+  flex: 0 0 auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: var(--submenu_height);
+  padding: 0px var(--spacing-1);
+}
+
+.nz-action-div button:disabled {
+  background-color: var(--disabled-color);
+  color: var(--textsecondary);
+  cursor: not-allowed;
+  border: 1px solid var(--borderandscrollbar);
+}
+
+.nz-action-div button {
+  background-color: var(--bgfeaturepane1);
+  color: var(--textprimary);
+  padding: 0px var(--spacing-2);
+  height: var(--node_height);
+  margin-right: var(--spacing-1);
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.nz-action-div button:hover:not(:disabled) {
+  background-color: var(--bgfeaturepane1);
+  filter: brightness(0.5);
+}
+
+.ag-body-viewport {
+  scroll-behavior: smooth;
+}
+
+.nz-admin-task-grid .ag-theme-alpine .ag-root-wrapper {
+  border-bottom: 1px solid lightgray !important;
+}
+
+.disabled-task-label .ag-cell-value {
+  color: darkgray !important;
+  font-weight: 500;
+  pointer-events: none;
+}
+
+.nz-checkbox-group {
+  display: flex;
+}
+
+.nz-toggle-label {
+  display: inline-flex;
+  align-items: center;
+  min-width: 18px; /* prevent collapse */
+}
+
+.nz-checkbox-container {
+  display: inline-flex;
+  align-items: center;
+  width: 18px; /* force checkbox width */
+  height: 18px;
+}
+
+/* hide native checkbox */
+.nz-native-checkbox {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* checkbox box */
+.nz-checkbox-box {
+  width: 18px;
+  height: 18px;
+  border: 1px solid var(--textprimary);
+  border-radius: 2px;
+  background: #fff;
+  position: relative;
+  box-sizing: border-box;
+}
+
+/* checked */
+.nz-native-checkbox:checked + .nz-checkbox-container .nz-checkbox-box {
+  background: #3aa0e6;
+  border-color: #3aa0e6;
+}
+
+/* tick */
+.nz-native-checkbox:checked + .nz-checkbox-container .nz-checkbox-box::after {
+  content: "";
+  position: absolute;
+  top: 2px;
+  left: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid #fff;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+/* disabled */
+.nz-disabled {
+  opacity: 0.6;
+  pointer-events: none;
+}

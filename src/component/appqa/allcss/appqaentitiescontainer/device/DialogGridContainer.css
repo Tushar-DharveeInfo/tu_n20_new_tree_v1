@@ -1,0 +1,94 @@
+.nz-dialog-grid-container .MuiPaper-root {
+    height: auto;
+    overflow: hidden;
+}
+
+.nz-dialog-grid-container .nz-dialog-grid-footer {
+    height: 40px;
+    display: flex;
+    line-height: 40px;
+    background-color: var(--bgfeaturepane1);
+}
+
+.nz-dialog-grid-container .nz-dialog-grid-footer .nz-feature-icon>div {
+    width: 20px;
+}
+
+.nz-dialog-grid-container .nz-dialog-grid-content {
+    height: 100%;
+    width: 100%;
+    padding: 0px !important;
+}
+
+.nz-dialog-grid-container.nz-custom-dialog-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.4);
+    z-index: 2000;
+}
+
+.nz-dialog-grid-container .nz-custom-dialog {
+    position: absolute;
+    background-color: var(--bgexplorer);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    min-height: 300px;
+    max-height: calc(100vh - 60px);
+    height: auto;
+    width: 100%;
+    /* can be controlled via inline */
+    max-width: calc(100vw - 40px);
+    /* responsive */
+    z-index: 2001;
+}
+
+.nz-dialog-grid-container .nz-custom-dialog-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+    background-color: var(--bgexplorer-light);
+    font-weight: bold;
+    height: 40px;
+    border-bottom: 1px solid #ddd;
+}
+
+.nz-dialog-grid-container .nz-custom-dialog-content {
+    flex: 1;
+    overflow-y: auto;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+}
+
+.nz-dialog-grid-container .nz-custom-dialog-footer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 6px 12px;
+    border-top: 1px solid #ddd;
+    height: 35px;
+    background-color: #f9f9f9;
+}
+
+.nz-dialog-grid-container .nz-fc-edit-combo-list-container .MuiAutocomplete-listbox {
+    max-height: 100px;
+}
+
+.nz-dialog-grid-container .nz-custom-dialog-content .nz-form-container,
+.nz-dialog-grid-container .nz-custom-dialog-content .nz-form-container .nz-form-controls {
+    flex: 1;
+    min-height: 0;
+    width: 100%;
+    overflow: hidden;
+}
+
+.nz-dialog-grid-container .nz-action-image-container.nz-disabled {
+    pointer-events: none;
+}

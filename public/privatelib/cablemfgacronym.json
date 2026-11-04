@@ -1,0 +1,440 @@
+{
+    "CableMfgAcronym": [
+        {
+            "ma": "0GCN",
+            "mfg": "Generic NetZoom Connectors"
+        },
+        {
+            "ma": "3CCO",
+            "mfg": "3com"
+        },
+        {
+            "ma": "ADCC",
+            "mfg": "ADC Telecommunications"
+        },
+        {
+            "ma": "ADCN",
+            "mfg": "ADC Telecommunications"
+        },
+        {
+            "ma": "ADCS",
+            "mfg": "ADC Telecommunications"
+        },
+        {
+            "ma": "ADDR",
+            "mfg": "Adder Technology"
+        },
+        {
+            "ma": "ADNT",
+            "mfg": "Audinate"
+        },
+        {
+            "ma": "ADRN",
+            "mfg": "Adtran"
+        },
+        {
+            "ma": "ADTN",
+            "mfg": "Adtran"
+        },
+        {
+            "ma": "ADTR",
+            "mfg": "Adtran"
+        },
+        {
+            "ma": "AFWT",
+            "mfg": "AFW Technologies"
+        },
+        {
+            "ma": "AGAC",
+            "mfg": "Generic Audio Video Cable Icons"
+        },
+        {
+            "ma": "ALCA",
+            "mfg": "Alcatel"
+        },
+        {
+            "ma": "ALCL",
+            "mfg": "Alcatel-Lucent"
+        },
+        {
+            "ma": "ALCT",
+            "mfg": "Alcatel-Lucent"
+        },
+        {
+            "ma": "AMNC",
+            "mfg": "AMP NetConnect"
+        },
+        {
+            "ma": "APCA",
+            "mfg": "APC"
+        },
+        {
+            "ma": "APCC",
+            "mfg": "APC"
+        },
+        {
+            "ma": "APCV",
+            "mfg": "APC"
+        },
+        {
+            "ma": "APNL",
+            "mfg": "Amphenol"
+        },
+        {
+            "ma": "ARIS",
+            "mfg": "Arista Networks"
+        },
+        {
+            "ma": "ATEN",
+            "mfg": "Aten Technology"
+        },
+        {
+            "ma": "AVOC",
+            "mfg": "Avocent"
+        },
+        {
+            "ma": "BBOX",
+            "mfg": "Black Box"
+        },
+        {
+            "ma": "BCBX",
+            "mfg": "Black Box"
+        },
+        {
+            "ma": "BELK",
+            "mfg": "Belkin Components"
+        },
+        {
+            "ma": "BTI",
+            "mfg": "Brooktrout Technology"
+        },
+        {
+            "ma": "CABG",
+            "mfg": "CablesToGo"
+        },
+        {
+            "ma": "CALR",
+            "mfg": "Calrad Electronics"
+        },
+        {
+            "ma": "CALX",
+            "mfg": "Calix"
+        },
+        {
+            "ma": "CCOM",
+            "mfg": "Clear-com Communication Systems"
+        },
+        {
+            "ma": "CICO",
+            "mfg": "Cisco Systems"
+        },
+        {
+            "ma": "CISC",
+            "mfg": "Cisco Systems"
+        },
+        {
+            "ma": "CISO",
+            "mfg": "Cisco Systems"
+        },
+        {
+            "ma": "CIST",
+            "mfg": "Cisco Systems"
+        },
+        {
+            "ma": "CISY",
+            "mfg": "Cisco Systems"
+        },
+        {
+            "ma": "CMSC",
+            "mfg": "CommScope"
+        },
+        {
+            "ma": "CONG",
+            "mfg": "Corning"
+        },
+        {
+            "ma": "CORN",
+            "mfg": "Corning"
+        },
+        {
+            "ma": "CRER",
+            "mfg": "Crestron Electronics"
+        },
+        {
+            "ma": "CSCA",
+            "mfg": "Cisco Systems"
+        },
+        {
+            "ma": "CSCS",
+            "mfg": "Cisco Systems"
+        },
+        {
+            "ma": "CSCY",
+            "mfg": "Cisco Systems"
+        },
+        {
+            "ma": "CSSY",
+            "mfg": "Cisco Systems"
+        },
+        {
+            "ma": "CSYS",
+            "mfg": "Cisco Systems"
+        },
+        {
+            "ma": "DCSS",
+            "mfg": "Data Center Systems"
+        },
+        {
+            "ma": "DELC",
+            "mfg": "Dell Computer"
+        },
+        {
+            "ma": "DELM",
+            "mfg": "Dell Computer"
+        },
+        {
+            "ma": "DELP",
+            "mfg": "Dell Computer"
+        },
+        {
+            "ma": "DELR",
+            "mfg": "Dell Computer"
+        },
+        {
+            "ma": "EMC2",
+            "mfg": "EMC"
+        },
+        {
+            "ma": "EN",
+            "mfg": "Extreme Networks"
+        },
+        {
+            "ma": "EXRN",
+            "mfg": "Extron Electronics"
+        },
+        {
+            "ma": "FBNT",
+            "mfg": "Fibernet"
+        },
+        {
+            "ma": "FBTR",
+            "mfg": "Fibertronics"
+        },
+        {
+            "ma": "FINI",
+            "mfg": "Finisar"
+        },
+        {
+            "ma": "FS",
+            "mfg": "FS.COM"
+        },
+        {
+            "ma": "FSP",
+            "mfg": "FSP Group"
+        },
+        {
+            "ma": "FUSM",
+            "mfg": "Fujitsu Business Communication Systems"
+        },
+        {
+            "ma": "GEIT",
+            "mfg": "Geist Manufacturing"
+        },
+        {
+            "ma": "GENC",
+            "mfg": "Generic Equipment Set"
+        },
+        {
+            "ma": "GENM",
+            "mfg": "Generic Equipment Set"
+        },
+        {
+            "ma": "GENR",
+            "mfg": "Generic Equipment Set"
+        },
+        {
+            "ma": "HEPR",
+            "mfg": "Hewlett-Packard"
+        },
+        {
+            "ma": "HEWP",
+            "mfg": "Hewlett-Packard"
+        },
+        {
+            "ma": "IBMI",
+            "mfg": "IBM"
+        },
+        {
+            "ma": "IXIA",
+            "mfg": "Ixia"
+        },
+        {
+            "ma": "IXOS",
+            "mfg": "IXOS"
+        },
+        {
+            "ma": "JUNP",
+            "mfg": "Juniper Networks"
+        },
+        {
+            "ma": "JUNR",
+            "mfg": "Juniper Networks"
+        },
+        {
+            "ma": "LCOM",
+            "mfg": "L-com"
+        },
+        {
+            "ma": "LEGR",
+            "mfg": "Legrand"
+        },
+        {
+            "ma": "LEVI",
+            "mfg": "Leviton Voice and Data"
+        },
+        {
+            "ma": "MCAF",
+            "mfg": "Mcafee Security"
+        },
+        {
+            "ma": "MMCN",
+            "mfg": "Multimedia Connect"
+        },
+        {
+            "ma": "MONP",
+            "mfg": "Monoprice"
+        },
+        {
+            "ma": "MONS",
+            "mfg": "Monster Cable Products"
+        },
+        {
+            "ma": "MTSH",
+            "mfg": "MetaSwitch"
+        },
+        {
+            "ma": "NATC",
+            "mfg": "NetApp"
+        },
+        {
+            "ma": "NCDT",
+            "mfg": "Belden CDT"
+        },
+        {
+            "ma": "NETG",
+            "mfg": "Netgear"
+        },
+        {
+            "ma": "NOTL",
+            "mfg": "Nortel Networks"
+        },
+        {
+            "ma": "NTSC",
+            "mfg": "Netscout Systems"
+        },
+        {
+            "ma": "NZ",
+            "mfg": "NetZoom"
+        },
+        {
+            "ma": "OPNG",
+            "mfg": "Opengear"
+        },
+        {
+            "ma": "ORTI",
+            "mfg": "Ortronics"
+        },
+        {
+            "ma": "PACR",
+            "mfg": "Liberty Wire and Cable"
+        },
+        {
+            "ma": "PASE",
+            "mfg": "Pasternack Enterprises"
+        },
+        {
+            "ma": "PICK",
+            "mfg": "Pickering"
+        },
+        {
+            "ma": "PNDI",
+            "mfg": "Panduit"
+        },
+        {
+            "ma": "PPWR",
+            "mfg": "Packet Power"
+        },
+        {
+            "ma": "QTON",
+            "mfg": "Quiktron"
+        },
+        {
+            "ma": "QUAE",
+            "mfg": "Quail Electronics"
+        },
+        {
+            "ma": "RARI",
+            "mfg": "Raritan Computer"
+        },
+        {
+            "ma": "RCI",
+            "mfg": "Raritan Computer"
+        },
+        {
+            "ma": "RUKS",
+            "mfg": "Ruckus Wireless"
+        },
+        {
+            "ma": "SCHE",
+            "mfg": "Schneider Electric"
+        },
+        {
+            "ma": "SMP",
+            "mfg": "Superior Modular Products"
+        },
+        {
+            "ma": "SPC",
+            "mfg": "SP Controls"
+        },
+        {
+            "ma": "SPHN",
+            "mfg": "Sensaphone"
+        },
+        {
+            "ma": "STRH",
+            "mfg": "StarTech.com"
+        },
+        {
+            "ma": "TCBS",
+            "mfg": "Total Cable Solutions"
+        },
+        {
+            "ma": "TRIP",
+            "mfg": "Tripp Lite"
+        },
+        {
+            "ma": "TRPP",
+            "mfg": "Tripp Lite"
+        },
+        {
+            "ma": "TYCO",
+            "mfg": "Tyco"
+        },
+        {
+            "ma": "UBIQ",
+            "mfg": "Ubiquiti Networks"
+        },
+        {
+            "ma": "UNPR",
+            "mfg": "Uniprise Solutions"
+        },
+        {
+            "ma": "UPLX",
+            "mfg": "Uplogix"
+        },
+        {
+            "ma": "ZONI",
+            "mfg": "Zonit"
+        }
+    ]
+}

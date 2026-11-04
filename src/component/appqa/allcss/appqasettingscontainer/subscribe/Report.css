@@ -1,0 +1,91 @@
+.nz-report-delivery-container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+}
+
+.nz-report-delivery-container .nz-tree-with-form-editor {
+    width: 100%;
+}
+
+.nz-report-delivery-container .nz-report-delivery-content {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.nz-report-delivery-container .nz-checked-list-panel-container .nz-list-item-container {
+    flex-grow: 1;
+}
+
+.nz-report-delivery-container .nz-message-user-card-list {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    min-height: 0;
+}
+
+.nz-report-delivery-container .nz-message-user-card-scroll {
+    flex: 1 1 auto;
+    height: 100%;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: var(--card-gap);
+    padding: var(--card-padding-0);
+}
+
+.nz-report-delivery-container .nz-message-user-card-status {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--spacing-1);
+}
+
+.nz-report-delivery-container .nz-message-user-card-main {
+    height: auto;
+    min-height: 50px;
+    flex: 0 0 auto;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--spacing-2) var(--spacing-3);
+}
+
+.nz-report-delivery-container .nz-message-user-card-main .nz-dynamic-card-content {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.nz-report-delivery-container .nz-message-user-card-main .nz-dynamic-card-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    flex-shrink: 0;
+}
+
+.nz-report-delivery-container .nz-message-user-card-main .nz-dynamic-card-main-content {
+    flex: 1 1 auto;
+    min-width: 0;
+    width: 100%;
+}
+
+.nz-report-delivery-container .nz-message-user-card-main .nz-cardlayout-content {
+    width: 100%;
+    min-width: 0;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.nz-report-delivery-container .nz-message-user-card-main .nz-cardlayout-response-details {
+    width: 100%;
+    text-align: left;
+    padding: var(--card-padding-0) 0;
+
+}

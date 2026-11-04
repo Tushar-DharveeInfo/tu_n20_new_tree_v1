@@ -1,0 +1,9 @@
+.nz-partner-list-container {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+.nz-partner-list-container .nz-partner-list-content {
+    flex-grow: 1;
+    overflow: hidden;
+}

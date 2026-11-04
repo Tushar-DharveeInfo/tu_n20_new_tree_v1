@@ -1,0 +1,96 @@
+.nz-dci-container-main {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+}
+
+.nz-dci-container-grid {
+    border-bottom: 1px solid var(--borderandscrollbar);
+    overflow: hidden;
+}
+
+.nz-dci-container-tree {
+    flex-grow: 1;
+    min-height: 40%;
+    display: flex;
+}
+
+.nz-dci-tree-one {
+    border-right: 1px solid var(--borderandscrollbar);
+}
+
+.nz-dci-tree-one,
+.nz-dci-tree-two {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.nz-dci-tree-one .nz-tree-container-hierarchical-data,
+.nz-dci-tree-two .nz-tree-container-hierarchical-data {
+    flex-grow: 1;
+}
+
+.nz-dci-container-grid .nz-qa-bar-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 40px;
+    min-height: 40px;
+    max-height: 40px;
+    font-weight: 700;
+    font-family: var(--fontfamily);
+    font-size: var(--default_font_size);
+    background-color: var(--bgfeaturepane1);
+    align-items: center;
+    color: var(--textprimary);
+}
+
+.nz-dci-container-grid .nz-qa-bar-container .nz-qa-bar-title {
+    padding: 0px 5px;
+}
+
+.nz-dci-container-grid-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.nz-dci-container-grid-container .nz-grid-dialog-container-div {
+    flex-grow: 1;
+    height: 100% !important;
+    overflow: hidden;
+}
+
+.nz-dci-container-grid .nz-grid-dialog-container-div,
+.nz-dci-container-grid .nz-grid-main-container-div,
+.nz-dci-container-grid .nz-OnetoOne-Grid {
+    height: 100% !important;
+}
+
+.nz-dci-grid-container {
+    width: 100%;
+    height: 100%;
+}
+
+.nz-dci-tree-one .nz-qa-bar-container,
+.nz-dci-tree-two .nz-qa-bar-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 40px;
+    min-height: 40px;
+    max-height: 40px;
+    font-weight: 700;
+    font-family: var(--fontfamily);
+    font-size: var(--default_font_size);
+    background-color: var(--bgfeaturepane1);
+    align-items: center;
+    color: var(--textprimary);
+}
+
+.nz-dci-tree-one .nz-qa-bar-container .nz-qa-bar-title,
+.nz-dci-tree-two .nz-qa-bar-container .nz-qa-bar-title {
+    padding: 0px 5px;
+}

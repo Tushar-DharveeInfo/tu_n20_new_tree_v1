@@ -1,0 +1,120 @@
+.nz-logs-grid {
+    flex: 1 1 0%;
+    min-height: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+}
+
+.nz-main-search-control-log {
+    height: 100%;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.nz-log-searchControl .nz-searchControl {
+    margin: var(--spacing-1) 0px !important;
+}
+
+.nz-log-searchControl .nz-searchControl .nz-form-groupControl-with-filter {
+    width: 100%;
+}
+
+.nz-logs-grid .nz-OnetoOne-Grid,
+.nz-logs-grid .nz-grid-dialog-container-div,
+.nz-logs-grid .nz-grid-dialog-container-div .nz-grid-main-container-div {
+    height: 100%;
+}
+
+.nz-logs-grid .nz-searchControl {
+    min-height: 30px;
+}
+
+.nz-forensic-log-no-data-to-show {
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.nz-main-search-control-log .nz-grid-container-div {
+    padding: 0px;
+}
+
+.nz-logs-grid .nz-grid-container-div {
+    flex: 1 1 0%;
+    min-height: 0;
+    height: 100% !important;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.nz-logs-grid .nz-ag-container {
+    flex: 1 1 0%;
+    min-height: 0;
+    height: 100% !important;
+    display: block !important;
+    position: relative !important;
+}
+
+.nz-logs-grid .ag-root-wrapper.ag-layout-normal,
+.nz-logs-grid .ag-root-wrapper-body.ag-layout-normal {
+    height: 100% !important;
+}
+
+.nz-logs-grid .nz-grid-container-div .nz-copy-to-clipboard-div .nz-copy-to-clipboard-only {
+    top: 4px;
+}
+
+/* Pinned index column width for ForensicLog to fit both column filter and download icons */
+.nz-logs-grid .ag-pinned-left-header,
+.nz-logs-grid .ag-pinned-left-header .ag-header-row,
+.nz-logs-grid .ag-pinned-left-cols-container,
+.nz-logs-grid .ag-pinned-left-cols-container .ag-row,
+.nz-logs-grid .ag-header-cell[col-id="index-cell"],
+.nz-logs-grid .ag-cell[col-id="index-cell"],
+.nz-logs-grid .nz-index-cell,
+.nz-logs-grid .ag-horizontal-left-spacer {
+    width: 65px !important;
+    min-width: 65px !important;
+    max-width: 65px !important;
+}
+
+.nz-logs-grid .nz-show-column-filter .nz-copy-to-clipboard-only {
+    left: 32px !important;
+    top: 4px !important;
+}
+
+.nz-log-filter-open {
+    display: none;
+}
+
+.nz-forensic-log-root {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.nz-logs-grid .ag-body-viewport {
+    overflow: hidden !important;
+}
+
+.nz-logs-grid .ag-body-vertical-scroll {
+    display: none !important;
+}
+
+.nz-logs-grid .ag-paging-button {
+    cursor: pointer;
+}
+
+.nz-logs-grid .ag-paging-button.ag-disabled {
+    cursor: default;
+    pointer-events: none;
+}

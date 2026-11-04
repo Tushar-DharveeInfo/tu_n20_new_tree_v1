@@ -1,0 +1,22 @@
+.nz-add-dc-objects-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.nz-add-dc-objects-container .nz-add-dc-objects-content {
+    flex-grow: 1;
+    overflow: hidden;
+    overflow-y: auto;
+    visibility: hidden;
+}
+.nz-add-dc-objects-container .nz-add-dc-objects-content div,
+.nz-add-dc-objects-container .nz-add-dc-objects-content:hover {
+    visibility: visible;
+}
+.nz-add-dc-objects-container .nz-prop-form-container-action .nz-header-action {
+    display: flex;
+    flex-direction: row;
+    gap: var(--spacing-1);
+}

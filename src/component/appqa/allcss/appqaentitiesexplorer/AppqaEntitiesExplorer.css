@@ -1,0 +1,11 @@
+.nz-dc-explorer-container,
+.nz-dc-explorer-container .nz-dce-tree-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: hidden;
+}
+
+.nz-app-qa-entities .nz-dc-explorer-container {
+    width: auto;
+}

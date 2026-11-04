@@ -1,0 +1,60 @@
+.nz-placement-instance-container,
+.nz-placement-floor-container,
+.nz-placement-explorer-container {
+    height: 100%;
+    width: 100%;
+}
+
+.nz-placement-explorer-container .nz-placement-floor-container {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.nz-placement-explorer-container {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.nz-placement-instance-container .nz-action-list-container .nz-list-data .nz-action-label-container {
+    justify-content: space-between !important;
+    flex-direction: row !important;
+}
+
+.nz-placement-instance-container .nz-strip-vertical {
+    background-color: transparent !important;
+}
+
+.nz-placement-instance-container .nz-action-panel {
+    height: var(--node_height);
+    display: flex;
+    align-items: center;
+}
+
+.nz-placement-floor-container .nz-edit-floor-layout-main {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.nz-placement-floor-container .nz-edit-floor-layout-main .nz-sub-header {
+    flex-shrink: 0;
+}
+
+.nz-placement-floor-container .nz-edit-floor-layout-main .p-splitter-horizontal {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.nz-placement-explorer-container .nz-placement-splitter {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.nz-placement-instance-container .nz-list-data {
+    background-color: var(--bgfeaturepane1) !important;
+}
+
+.nz-placement-instance-container .nz-list-data .nz-label-strip-container .nz-action-label-container:not(:first-of-type) {
+    padding-left: var(--spacing-5);
+}

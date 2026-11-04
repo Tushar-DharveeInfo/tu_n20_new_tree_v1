@@ -1,0 +1,52 @@
+# Alert Delivery component that uses tree and form container with read only mode 
+
+## How to use this component : 
+- To use this component user need to pass the required props and need to set layout
+
+## Developer: TU
+
+## Packages used for the component 
+
+# component:alertdelivery
+# types and interfaces
+
+interface IAlert {
+    uniqueName: string; // Unique identifier for the form container
+    seelctedGroup: string;// group name from seelcted node in settings tree
+    selectedSubGroup: string;// subgroup name from seelcted node in settings tree
+    featureId: string;// feature id for conditions 
+    formControls: IControl[];// form controls 
+    apiData: unknown;// api data to render tree
+}
+
+interface IControl {
+    CanChange: number; // Indicates if the property can be changed (0 = No, 1 = Yes)
+    IsRequired: number; // Indicates if the property is required (0 = No, 1 = Yes)
+    GroupName: string; // Name of the group the property belongs to
+    GroupNameDesc: string; // Description of the group
+    SubGroupEntID: string; // Unique identifier for the subgroup entity
+    SubGroupName: string; // Name of the subgroup
+    SubGroupNameDesc: string; // Description of the subgroup
+    _AP: string; // Internal identifier or key for the property
+    PropertyLabel: string; // Label to display for the property
+    NameDesc: string; // Description or tooltip for the property
+    DefaultAPValue: string; // Default value of the property
+    Value: string | null; // Current value of the property
+    ValueDesc: string; // Additional description for the value
+    SortOrder: number; // Order of the property in the form
+    MaxInstances: number; // Maximum number of instances allowed
+    InputMask: string | null; // Input mask or reference data for the property
+    RegEx: string | null; // Regular expression for validation
+    DisplayGroupControl: string | null; // Display group control information
+    DisplayControl: string; // Control type to display (e.g., EditTextControl, DateControl)
+    ChangeEvent: string; // Event triggered when the property value changes
+    Secured: boolean; // Indicates if the property is secured
+    IsNZ: boolean; // Indicates if the property is specific to NZ
+    EntID: string; // Unique identifier for the entity
+    RecID: string; // Record identifier
+    LastUpdated: string; // Last updated timestamp (ISO 8601 or standard date string format)
+    EntityName: string; // Name of the entity
+    Name: string; // Name of the property
+    disabled: boolean; // Indicates if the property is disabled
+    isNewLine?: boolean;// Indicates whether control need to render in new line or not 
+}

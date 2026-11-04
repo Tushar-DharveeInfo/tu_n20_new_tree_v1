@@ -1,0 +1,100 @@
+.nz-device-view-container,
+.nz-device-view-container .nz-device-view,
+.nz-device-view-container .nz-device-chart-view {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.nz-device-view-container .p-splitter-horizontal {
+    height: 100%;
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.nz-device-view-container .nz-device-chart-view .nz-dashbord-chart-container {
+    width: 100%;
+    height: 100%;
+}
+
+.nz-device-view-container .nz-device-view .nz-view-tab-container,
+.nz-device-view-container .nz-two-d-view-container .nz-device-view .nz-tabs-container,
+.nz-device-view-container .nz-two-d-view-container .nz-device-view .nz-view-tab-container .nz-label-strip-container {
+    height: 30px !important;
+}
+
+.nz-chart-with-sub-header-pane .dashboard-chart-close {
+    top: 6px !important;
+    right: 8px !important;
+}
+
+.nz-device-view-container .nz-Floor-ask-componet {
+    height: 100%;
+    width: 100%;
+}
+
+.nz-chart-hidden {
+    display: none !important;
+}
+
+.nz-device-chart-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.nz-device-chart-container .nz-device-chart-view {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.nz-chart-overlay {
+    position: absolute;
+    inset: 0;
+    /* black transparent */
+    z-index: 1000;
+}
+
+.nz-chart-draggable {
+    position: absolute;
+    width: 54px;
+    top: 0px;
+    left: calc(100% - 54px);
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    z-index: 99999;
+}
+
+.nz-chart-drag-bar {
+    background: var(--bgchartbutton);
+    color: var(--textprimary);
+    padding: 10px;
+    cursor: move;
+    border-radius: 8px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.nz-chart-content {
+    padding: 20px;
+}
+
+.nz-device-view .nz-chart-drag-bar .nz-image-container .nz-feature-icon svg {
+    color: white;
+}
+
+.nz-device-view-container .nz-two-d-view-container .nz-device-view .nz-view-tab-container .nz-label-strip-container {
+    padding: 0;
+}
+
+.nz-mounted-device-view .nz-left-pane {
+    background-color: var(--bgfeaturepane2);
+}

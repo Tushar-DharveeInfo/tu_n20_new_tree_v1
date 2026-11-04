@@ -1,0 +1,46 @@
+.nz-tenant-card-container {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    overflow: auto;
+    gap: var(--card-gap);
+    padding: var(--card-padding-0);
+    padding-left: 0px
+}
+
+.nz-tenant-card-container .nz-tenant-card-list {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    align-items: stretch;
+    gap: var(--spacing-1);
+    overflow: auto;
+    padding: var(--spacing-1);
+}
+
+.nz-tenant-card-container .nz-tenant-card-status-message {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+    padding: var(--spacing-1);
+}
+
+.nz-tenant-card-container .nz-tenant-card-main {
+    height: auto;
+    min-height: 50px;
+    flex: 0 0 auto;
+    align-items: flex-start;
+}
+
+.nz-tenant-card-main .nz-dynamic-card-main-content {
+    width: 100%;
+    min-width: 0;
+}
+
+.nz-tenant-card-main .nz-cardlayout-content {
+    width: 100%;
+    min-width: 0;
+}

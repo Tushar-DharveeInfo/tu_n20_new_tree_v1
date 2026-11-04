@@ -1,0 +1,63 @@
+.nz-chart-container {
+    width: auto;
+    min-width: calc(26% - 31px);
+    border: 1px solid red;
+    margin: 5px;
+    position: relative;
+}
+
+.nz-chart-main-div>div {
+    height: 100%;
+    width: 100%;
+}
+
+/*  Dial Chart and number chart */
+.nz-chart-main-div .nz-dial-chart-container .nz-dial-chart-title,
+.nz-chart-main-div .nz-number-chart-container .nz-number-chart-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+}
+
+.nz-chart-main-div .nz-dial-chart-container .nz-dial-chart,
+.nz-chart-main-div .nz-number-chart-container .nz-number-chart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+
+}
+
+.nz-chart-main-div .nz-dial-chart-container,
+.nz-chart-main-div .nz-number-chart-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 300px;
+}
+
+
+
+.nz-chart-main-div .nz-dial-chart-subtitle,
+.nz-chart-main-div .nz-number-chart-subtitle {
+    margin-top: 8px;
+}
+
+.nz-chart-action-button {
+    cursor: pointer;
+    display: flex;
+    padding: 3px 5px;
+}
+
+.nz-smallcard {
+    width: auto;
+    min-width: calc(26% - 31px);
+    margin: var(--spacing-2);
+    border: 1px solid var(--borderandscrollbar);
+    margin: 5px;
+    position: relative;
+    flex-grow: 1;
+}

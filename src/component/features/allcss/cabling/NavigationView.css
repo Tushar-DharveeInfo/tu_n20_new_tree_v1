@@ -1,0 +1,13 @@
+.nz-cabling-navigation-view .nz-cabling-views-container-div {
+    flex-direction: column;
+}
+
+.nz-cabling-navigation-view .nz-device-view-from,
+.nz-cabling-view .nz-device-view-from {
+    flex-grow: 1;
+    overflow: hidden;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+}

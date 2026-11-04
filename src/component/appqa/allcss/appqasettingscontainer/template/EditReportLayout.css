@@ -1,0 +1,113 @@
+.nz-edit-report-layout-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.nz-edit-report-layout-container .nz-edit-report-layout {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.nz-edit-report-layout-container .nz-edit-report-layout>div.nz-scroll-image-strip-container {
+    width: 40px;
+    min-width: 40px;
+}
+
+.nz-edit-report-layout-container .nz-header-edit-report-with-icon {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-grow: 1;
+    align-items: center;
+}
+
+.nz-edit-report-layout-container .nz-edit-report-layout-content {
+    flex-grow: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+}
+
+.nz-edit-report-layout-container .nz-edit-report-layout-content .nz-report-layout-tree-container {
+    width: 100%;
+    height: 100%;
+}
+
+.nz-edit-report-layout-container .nz-edit-report-layout-content .nz-edit-report-layout-drag-container {
+    background-color: var(--bgfeaturepane1);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--textsecondary);
+    cursor: pointer;
+    pointer-events: all;
+}
+
+.nz-edit-report-layout-container .nz-report-layout-save.nz-pulse {
+    position: relative !important;
+}
+
+.nz-edit-report-layout-container .nz-report-layout-save {
+    padding-right: 10px;
+    padding-left: 5px;
+}
+
+.nz-edit-report-layout-container .nz-report-layout-save.nz-pulse::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    transform: translate(-50%, -50%) scale(1);
+    animation: pulseAnimation 1s ease-out infinite;
+    pointer-events: none;
+}
+
+/* Container: relative to allow absolute positioning inside */
+.nz-edit-report-layout-container .nz-node-kebab-copy-icon {
+    width: 60px;
+    height: 20px;
+    position: relative;
+}
+
+/* Copy icon (left aligned) */
+.nz-edit-report-layout-container .nz-node-kebab-copy-icon>.nz-action-image-container {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    cursor: pointer;
+    visibility: visible;
+    /* use 'hidden' to toggle without layout shift */
+}
+
+/* Menu icon (right aligned) */
+.nz-edit-report-layout-container .nz-node-kebab-copy-icon>.nz-node-menu {
+    width: 24px;
+    height: 20px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nz-edit-report-layout-container .nz-sub-header .nz-action-image-container.nz-disabled {
+    pointer-events: none;
+}
+
+.nz-edit-report-layout .nz-edit-report-layout-content .ke-konva-editor-container {
+    display: flex;
+}

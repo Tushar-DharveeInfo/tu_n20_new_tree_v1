@@ -1,0 +1,65 @@
+.nz-user-authorize {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.nz-user-authorize-container {
+    flex-grow: 1;
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    overflow-y: auto;
+    gap: var(--spacing-1)
+}
+
+.nz-user-authorize-card-pane {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.nz-user-authorize-right-side {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    padding: var(--spacing-1);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-1);
+}
+
+.nz-user-authorize-selected-card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-2);
+}
+
+.nz-user-authorize-selected-header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: var(--spacing-2);
+}
+
+.nz-user-authorize-selected-details {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-1);
+}
+
+.nz-card-container-content .nz-tree-action-control-container .nz-tree-control-container .rc-tree {
+    position: relative;
+    height: auto;
+}
+
+.nz-card-container-content .nz-tree-action-control-container .nz-tree-control-container>div {
+    padding-bottom: 0px !important;
+}

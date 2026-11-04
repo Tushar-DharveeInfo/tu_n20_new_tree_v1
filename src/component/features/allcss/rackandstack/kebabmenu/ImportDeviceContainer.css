@@ -1,0 +1,21 @@
+.nz-import-device {
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+    height: 100%;
+}
+
+.nz-import-device .nz-first-import-div {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.nz-import-device .nz-grid-import-div {
+    width: 100%;
+    height: 100%;
+}
+
+.nz-import-device .nz-explorer-container .nz-layout-with-sidebar-pane {
+    background-color: transparent !important;
+}

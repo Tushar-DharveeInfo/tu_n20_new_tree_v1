@@ -1,0 +1,84 @@
+.nz-edit-floor-layout-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    z-index: 2;
+}
+
+.nz-edit-floor-layout-container .nz-edit-floor-layout {
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.nz-edit-floor-layout-container .nz-edit-floor-layout>div.nz-scroll-image-strip-container {
+    width: 40px;
+    overflow: visible;
+}
+
+.nz-edit-floor-layout-container .nz-edit-floor-layout-content {
+    flex-grow: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+}
+
+.nz-edit-floor-layout-container .nz-edit-floor-layout-content .nz-floor-layout-tree-container {
+    width: 100%;
+    height: 100%;
+}
+
+.nz-edit-floor-layout-container .nz-edit-floor-layout-content .nz-edit-floor-layout-drag-container {
+    background-color: var(--bgfeaturepane1);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--textsecondary);
+    cursor: pointer;
+    pointer-events: all;
+}
+
+.nz-edit-floor-layout-container .nz-edit-floor-layout-tree-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+/* Container: relative to allow absolute positioning inside */
+.nz-edit-floor-layout-container .nz-node-kebab-copy-icon {
+    width: 60px;
+    height: 20px;
+    position: relative;
+}
+
+/* Copy icon (left aligned) */
+.nz-edit-floor-layout-container .nz-node-kebab-copy-icon>.nz-action-image-container {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    cursor: pointer;
+    visibility: visible;
+    /* use 'hidden' to toggle without layout shift */
+}
+
+/* Menu icon (right aligned) */
+.nz-edit-floor-layout-container .nz-node-kebab-copy-icon>.nz-node-menu {
+    width: 24px;
+    height: 20px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nz-edit-floor-layout-container .ke-konva-editor-container {
+    height: 100%;
+    overflow: hidden;
+}

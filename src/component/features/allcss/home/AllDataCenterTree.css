@@ -1,0 +1,23 @@
+.nz-all-dc-tree-container,
+.nz-all-dc-tree-container .nz-dce-tree-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: var(--bgexplorer);
+    color: var(--textprimary);
+}
+
+.nz-all-dc-tree-container .nz-dce-filter-form>.nz-tree-action-control-container {
+    display: none;
+}
+
+.nz-all-dc-tree-container .nz-dce-filter-form .nz-tree-action-control-container .nz-tree-control-container {
+    overflow: visible;
+    height: auto;
+}
+
+.nz-all-dc-tree-container .nz-dce-filter-form .nz-tree-action-control-container .nz-tree-control-container .rc-tree {
+    height: auto;
+}

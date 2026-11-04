@@ -1,0 +1,64 @@
+{
+  "Related": [
+    {
+      "Manufacturer": "Cisco Systems",
+      "RelatedManufacturer": "Acano"
+    },
+    {
+      "Manufacturer": "Harman-Kardon",
+      "RelatedManufacturer": "AMX"
+    },
+    {
+      "Manufacturer": "Intel",
+      "RelatedManufacturer": "Acclaim Communication"
+    },
+    {
+      "Manufacturer": "JDS Uniphase",
+      "RelatedManufacturer": "Acterna"
+    },
+    {
+      "Manufacturer": "Juniper Networks",
+      "RelatedManufacturer": "Acorn Packet Solutions"
+    },
+    {
+      "Manufacturer": "Nokia IP",
+      "RelatedManufacturer": "Amber Networks"
+    },
+    {
+      "Manufacturer": "Occam Networks",
+      "RelatedManufacturer": "Accelerated Networks"
+    },
+    {
+      "Manufacturer": "Polycom",
+      "RelatedManufacturer": "Accord Networks"
+    },
+    {
+      "Manufacturer": "Schneider Electric",
+      "RelatedManufacturer": "Andover Controls"
+    },
+    {
+      "Manufacturer": "Schneider Electric",
+      "RelatedManufacturer": "TAC"
+    },
+    {
+      "Manufacturer": "Spirent Communications",
+      "RelatedManufacturer": "Adtech"
+    },
+    {
+      "Manufacturer": "SUN Microsystems",
+      "RelatedManufacturer": "Acme Packet"
+    },
+    {
+      "Manufacturer": "TAC",
+      "RelatedManufacturer": "Andover Controls"
+    },
+    {
+      "Manufacturer": "Tellabs",
+      "RelatedManufacturer": "AccessLan Communications"
+    },
+    {
+      "Manufacturer": "Zoom Technologies",
+      "RelatedManufacturer": "Access Beyond"
+    }
+  ]
+}

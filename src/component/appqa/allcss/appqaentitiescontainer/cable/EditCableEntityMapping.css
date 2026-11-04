@@ -1,0 +1,46 @@
+.nz-cable-entites-container {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+}
+
+.nz-cable-entites-container .nz-create-entites-pane {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.nz-cable-entites-container .nz-model-by-type-pane {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.nz-cable-entites-container .nz-product-details-pane {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    gap: var(--spacing-1);
+}
+
+.nz-cable-entites-container .nz-product-details-pane>.nz-label-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.nz-cable-entites-container .nz-product-details-pane .nz-propertyTab-main {
+    height: calc(100% - 24px);
+}
+
+.nz-cable-entites-container .nz-product-details-pane .nz-propertyTab-main .nz-copy-to-clipboard-div .MuiButtonBase-root {
+    left: 24px !important;
+    top: 8px;
+}

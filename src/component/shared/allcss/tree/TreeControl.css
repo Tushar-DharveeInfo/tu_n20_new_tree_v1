@@ -1,0 +1,122 @@
+.nz-tree-action-control-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.nz-tree-action-control-container .nz-tree-control-container {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.nz-tree-action-control-container.nz-tree-with-buttons .nz-tree-control-container {
+    height: calc(100% - 30px);
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.nz-tree-action-control-container .nz-action-panel {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: var(--spacing-2);
+    padding: var(--spacing-2) calc(var(--spacing-2) + 2px);
+    background-color: var(--subheaderbg);
+}
+
+.nz-tree-action-control-container .nz-tree-control-container .rc-tree {
+    width: 100%;
+    height: 100%;
+    border: 0.5px solid transparent;
+}
+
+.nz-tree-action-control-container .nz-tree-control-container .rc-tree .rc-tree-list {
+    height: 100%;
+}
+
+.nz-tree-action-control-container .nz-tree-control-container .rc-tree .rc-tree-list .rc-tree-list-holder>div {
+    height: 100%;
+}
+
+.nz-tree-action-control-container .nz-tree-control-container .rc-tree .rc-tree-list .rc-tree-list-holder>div .rc-tree-list-holder-inner {
+    height: 100%;
+}
+
+/* When node is focused with keyboard */
+.rc-tree .rc-tree-treenode-active {
+    background: transparent;
+    border: 0.5px solid var(--textprimary);
+}
+
+.node-motion {
+    transition: all 0.3s;
+    overflow-y: hidden;
+}
+
+.rc-tree-checkbox {
+    width: 18px;
+    height: 18px;
+    min-width: 18px;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 1px solid #9ca3af;
+    border-radius: 4px;
+    background-color: var(--lf-control-input-bg, var(--bgform, #ffffff));
+    position: relative;
+    vertical-align: middle;
+    cursor: pointer;
+    transition: border-color 120ms ease-in-out;
+}
+
+.rc-tree-checkbox:hover:not(.rc-tree-checkbox-disabled):not(.rc-tree-checkbox-checked):not(.rc-tree-checkbox-indeterminate) {
+    border-color: #2563eb;
+}
+
+.rc-tree-checkbox-checked {
+    border-color: #2563eb;
+    background-color: var(--lf-control-input-bg, var(--bgform, #ffffff));
+    background-image: url("data:image/svg+xml,%3Csvg width='12' height='12' viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M10 3L4.5 8.5L2 6' stroke='%232563eb' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 12px 12px;
+}
+
+.rc-tree-checkbox-checked::after {
+    display: none;
+    content: none;
+}
+
+.rc-tree-checkbox-indeterminate {
+    border-color: #2563eb;
+    background-color: var(--lf-control-input-bg, var(--bgform, #ffffff));
+    background-image: url("data:image/svg+xml,%3Csvg width='12' height='12' viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M2.5 6H9.5' stroke='%232563eb' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 12px 12px;
+}
+
+.rc-tree-checkbox-indeterminate::after {
+    display: none;
+    content: none;
+}
+
+.rc-tree-checkbox-disabled {
+    border-color: #9ca3af;
+    background-color: var(--lf-control-input-bg, var(--bgform, #ffffff));
+    opacity: 0.55;
+    cursor: not-allowed;
+}
+
+.rc-tree-checkbox-disabled.rc-tree-checkbox-checked,
+.rc-tree-checkbox-disabled.rc-tree-checkbox-indeterminate {
+    opacity: 0.55;
+}
+
+.rc-tree-checkbox-disabled.rc-tree-checkbox-checked::after,
+.rc-tree-checkbox-disabled.rc-tree-checkbox-indeterminate::after {
+    display: none;
+    content: none;
+}

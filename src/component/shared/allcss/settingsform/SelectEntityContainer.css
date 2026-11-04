@@ -1,0 +1,28 @@
+.nz-checkbox-button {
+   display: flex;
+   gap: var(--spacing-2);
+}
+
+.nz-import-export-tree,
+.nz-import-export-tree-search {
+   height: 100%;
+}
+
+.nz-import-export-tree-div {
+   flex-grow: 1;
+   overflow: hidden;
+}
+
+.nz-checkbox-button .nz-form-control-labeled {
+   margin-top: 0px !important;
+}
+
+
+.rc-tree-treenode-disabled .rc-tree-title {
+   opacity: 0.5;
+}
+
+.nz-import-export-tree-search {
+   display: flex;
+   flex-direction: column;
+}

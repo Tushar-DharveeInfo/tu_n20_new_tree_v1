@@ -1,0 +1,12 @@
+.nz-env-container {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    padding: var(--spacing-1) 0px;
+}
+.nz-env-container .nz-fc-jsonviewer {
+    height: 100%;
+}
+.nz-env-container .nz-fc-jsonviewer .nz-json-viewer-container {
+    max-height: unset;
+}

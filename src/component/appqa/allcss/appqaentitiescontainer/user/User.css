@@ -1,0 +1,50 @@
+.nz-user-card-container {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    overflow: auto;
+}
+
+.nz-user-card-container .nz-user-card-list {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    align-items: stretch;
+    gap: var(--card-gap);
+    overflow: auto;
+    padding: var(--card-padding-0);
+    padding-left: 0px
+}
+
+.nz-user-card-container .nz-user-card-status-message {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+    padding: var(--spacing-1);
+}
+
+.nz-user-card-container .nz-user-card-main {
+    height: auto;
+    min-height: 72px;
+    flex: 0 0 auto;
+    align-items: flex-start;
+    padding: var(--card-padding-1);
+}
+
+
+.nz-user-card-main .nz-dynamic-card-main-content {
+    width: 100%;
+    min-width: 0;
+}
+
+.nz-user-card-main .nz-cardlayout-content {
+    width: 100%;
+    min-width: 0;
+}
+
+.nz-user-card-main .nz-cardlayout-response-details {
+    padding: var(--card-padding-0) 0;
+}

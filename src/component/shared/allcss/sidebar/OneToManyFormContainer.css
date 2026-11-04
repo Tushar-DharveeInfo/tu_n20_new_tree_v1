@@ -1,0 +1,12 @@
+.nz-one-to-many-form-container .nz-grid-container-div {
+    height: fit-content !important;
+}
+
+.nz-one-to-many-form-container .ag-root-wrapper-body.ag-layout-normal {
+    height: fit-content;
+}
+.nz-one-to-many-form-container .nz-grid-container-div .ag-cell-wrapper.ag-checkbox-cell {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}

@@ -1,0 +1,45 @@
+.nz-role-authorize {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-1);
+}
+
+.nz-role-authorize-container {
+    flex-grow: 1;
+    min-height: 0;
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.nz-role-authorize-card-pane {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.nz-role-authorize-right-side {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    padding: var(--spacing-1);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-1);
+}
+
+.nz-card-container-content .nz-tree-action-control-container .nz-tree-control-container .rc-tree {
+    position: relative;
+    height: auto;
+}
+
+.nz-card-container-content .nz-tree-action-control-container .nz-tree-control-container > div {
+    padding-bottom: 0px !important;
+}

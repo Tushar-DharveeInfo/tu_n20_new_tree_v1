@@ -1,0 +1,51 @@
+.nz-role-card-container {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    overflow: auto;
+    gap: var(--spacing-1);
+    padding: var(--spacing-1);
+    padding-left: 0px
+}
+
+.nz-role-card-container .nz-role-card-list {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    align-items: stretch;
+    gap: var(--spacing-1);
+    overflow: auto;
+    padding: var(--spacing-1);
+}
+
+.nz-role-card-container .nz-role-card-status-message {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+    padding: var(--spacing-1);
+}
+
+.nz-role-card-container .nz-role-card-main {
+    height: auto;
+    min-height: 72px;
+    flex: 0 0 auto;
+    align-items: flex-start;
+    padding: var(--spacing-2);
+}
+
+.nz-role-card-main .nz-dynamic-card-main-content {
+    width: 100%;
+    min-width: 0;
+}
+
+.nz-role-card-main .nz-cardlayout-content {
+    width: 100%;
+    min-width: 0;
+}
+
+.nz-role-card-main .nz-cardlayout-response-details {
+    padding: var(--card-padding-0) 0;
+}

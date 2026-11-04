@@ -1,0 +1,666 @@
+[
+    {
+        "featureid": "41_more",
+        "tip": "Use **More** to launch other Application Quick Actions"
+    },
+    {
+        "featureid": "42_menu_settings",
+        "tip": "Use **Settings** to custom configure NetZoom, manage the application settings and much more"
+    },
+    {
+        "featureid": "43_help",
+        "tip": "Use **Help** to launch context-sensitive help on any feature"
+    },
+    {
+        "featureid": "44_theme",
+        "tip": "Choose your color theme with the Application QA: Theme"
+    },
+    {
+        "featureid": "45_launch",
+        "tip": "Start a new instance of NetZoom with the Application QA: Launch"
+    },
+    {
+        "featureid": "46_Notify",
+        "tip": "Use Notify to compose and send a message to one or more NetZoom users. Select the Severity of the message. Type the message and optionally add attachments (Files, Audio or Video). Check the recipients. Finally, click the **Send Notification** button."
+    },
+    {
+        "featureid": "47_reports",
+        "tip": "Use the Application QA: Report to view application-wide reports such as user reports or capacity across the entire enterprise. To run a report, click on the card for the desired report. Then click the **Generate PDF** button to Create and Save the report in PDF format"
+    },
+    {
+        "featureid": "90_entities",
+        "tip": "Use **Entities** to manage application entities and manage users and their permissions"
+    },
+    {
+        "featureid": "91_Delegate",
+        "tip": "Use **Impersonate User and Delegate** to select the NetZoom user to impersonate. This feature also allows users to set their profile data and Opt-in/Opt-out of emails and SMS messages. By using this setting, you can Delegate access to another user for a specific time period. Check the checkbox and set the time period by changing the Start Date and End Date "
+    },
+    {
+        "featureid": "92_reminders",
+        "tip": "Set and manage reminders with the Application QA: **Reminder**"
+    },
+    {
+        "featureid": "93_task",
+        "tip": "Use the Application QA: **Task** to show the status of Background Tasks, Active Sessions, Windows Services and SQL Jobs"
+    },
+    {
+        "featureid": "94_netzoom_settings_alerts",
+        "tip": "**Alerts** shows all alerts for the application. Use the filter to change the filtered results."
+    },
+    {
+        "featureid": "95_settings_desc_forensiclog",
+        "tip": "With the **Forensic Log** settings, you may view and manage the complete log of User and System interaction. Use the **Search** section to locate log entries by keyword with a semicolon (';') separator between keywords. Use the **Filter** section to filter the results by date range, Site, Tenant, and User"
+    },
+    {
+        "featureid": "96_settings_desc_entities",
+        "tip": "Use **Entities** to manage NetZoom Entities and Device Entities. NetZoom entities include Sites, Licenses, Users, Roles, Tenants, and Teams. By customizing the application data, you can make the application work better for your specific use case and also have better organization of your data. For example, you can create custom Tenants to represent different customers in a Managed Data Center environment or create custom Teams to represent different groups or departments within your enterprise"
+    },
+    {
+        "featureid": "97_signout",
+        "tip": "Sign out of application and Close all of your open sessions with the Application QA: Signout"
+    },
+    {
+        "featureid": "100_menu_dashboard",
+        "tip": "Choose how to view the data center"
+    },
+    {
+        "featureid": "104_charts",
+        "tip": "View the **Dashboards** for the current data center site"
+    },
+    {
+        "featureid": "106_alldatacenters",
+        "tip": "Use **Select Data Centers** to view the data center sites and interconnectivity on the map and also select the data center in which to work. You can see the tenants by data center or view the data centers by tenant. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "108_home_analytics",
+        "tip": "Use **Home/Analytics and Charts** to review metrics on the data center sites in order to make informed decisions. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "110_home_powerbi",
+        "tip": "Use **Home/Power BI** to analyze various metrics for the data center sites. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "120_menu_dc",
+        "tip": "Data Center menu"
+    },
+    {
+        "featureid": "123_asset_management",
+        "tip": "By using the **Assets** feature, NetZoom lets you view and manage your entire Data Center Infrastructure for a site including rooms, floors, locations and devices. You can use the **Filter** section to manage the assets by tenant, team or tag to help manage the data center resources. *(You may use Ctrl+Alt+B to toggle the Explorer pane, Ctrl+Alt+F to toggle the Floor Layout)*"
+    },
+    {
+        "featureid": "126_asset_configuration",
+        "tip": "Use the **Asset Configuration** feature to see the detailed configuration of data center assets. *(You may use Ctrl+Alt+B to toggle the Explorer pane, Ctrl+Alt+F to toggle the Floor Layout)*"
+    },
+    {
+        "featureid": "128_asset_assignment",
+        "tip": "Use the **Asset Assignment** feature to assign assets to specific tenants, teams or tags to help manage the data center resources"
+    },
+    {
+        "featureid": "150_menu_cabling",
+        "tip": "Cabling menu"
+    },
+    {
+        "featureid": "153_reviewpowercabling",
+        "tip": "The feature **Cabling/Review Power Cabling** lets you review Power Cabling for the selected device. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "156_powercabling",
+        "tip": "Create and **Edit Power Cabling** between devices to create the data center\u0027s power chain. To create power cabling, first check the Originating/From node in the Data Center Explorer. Next, select (do not check) the Destination/To node in the Data Center Explorer and use the kebab menu **Add to Cabling** to add the device in the last column of the cabling grid. From the Cables drop down at the top of the page, choose the cable to use and click the **Add Cable** button. Finally, drag the cable port name to the device port name to complete the connection. You may add additional destination devices, cables and connections as needed. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "159_powertrace",
+        "tip": "Use **Power Trace** to view a power connectivity diagram beginning with the selected device. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "162_powernavigate",
+        "tip": "Use **Power Navigate** to move between devices in the data center\u0027s power chain"
+    },
+    {
+        "featureid": "165_reviewnetworkcabling",
+        "tip": "The feature **Cabling/Review Network Cabling** lets you review Network Cabling for the selected device. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "168_networkcabling",
+        "tip": "Create and **Edit Network Cabling** between devices using copper and fiber cables. To create network cabling, first check the Originating/From node in the Data Center Explorer. Next, select (do not check) the Destination/To node in the Data Center Explorer and use the kebab menu **Add to Cabling** to add the device in the last column of the cabling grid. From the Cables drop down at the top of the page, choose the cable to use and click the **Add Cable** button. Finally, drag the cable port name to the device port name to complete the connection. You may add additional destination devices, cables and connections as needed. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "171_networktrace",
+        "tip": "Use **Network Trace** to view a connectivity diagram beginning with the selected device. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "174_networknavigate",
+        "tip": "Use **Network Navigate** to move between connected devices in the data center. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "200_menu_plan",
+        "tip": "Plan menu"
+    },
+    {
+        "featureid": "203_floorlayout",
+        "tip": "Use **Edit Floor Layout** to design the floor layout preview including positioning of locations and floor devices. Any devices or locations that have not been positioned will be shown in *italics* in the Data Center Explorer. Simply drag them onto the floor to position them within their respective parent location. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "206_asset_placement",
+        "tip": "Use **Asset Placement** to determine the optimal rack placement of devices in the data center based on the device dimensions and available rack capacity in terms of space, power, heat and port availability. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "209_relocate",
+        "tip": "Use **Relocate** to move devices between different floors within a site. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "212_transfer",
+        "tip": "Use **Transfer** to move devices from one site to another. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "215_delete",
+        "tip": "Use **Delete** to move devices from the live site to Spare Devices in the Used bin. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "218_asset_placement",
+        "tip": "Use **Inbound Asset Placement** to determine the optimal rack placement of new devices from external sources based on the device dimensions and available rack capacity in terms of space, power, heat and port availability. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "221_inbound_assets",
+        "tip": "Use **Inbound Assets** to manage devices from external sources. For devices with '?', use the NetZoom Device Library to assign them an EQID and create the asset in Inventory in a corresponding bin to the external source. Next, use Inbound Assets Placement to position the new assets, assets with a check, in the data center hierarchy. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "250_menu_rackandstack",
+        "tip": "Rack and Stack menu"
+    },
+    {
+        "featureid": "253_move_add_change_device",
+        "tip": "Use the **Move Add Change Device** feature to view data center assets in an editable Data Center Explorer pane. Changes made in a Managed Data Center generate workorders that can be reviewed and executed in the Workorder feature. Changes made in a non-Managed Data Center are automatically committed without the need to review and execute a workorder. *(You may use Ctrl+Alt+B to toggle the Explorer pane, Ctrl+Alt+F to toggle the Floor Layout)*"
+    },
+    {
+        "featureid": "256_configure_device",
+        "tip": "Use the **Configure Device** feature to view and modify data center assets in an editable Data Center Explorer pane. Changes made in a Managed Data Center generate workorders that can be reviewed and executed in the Workorder feature. Changes made in a non-Managed Data Center are automatically committed without the need to review and execute a workorder. *(You may use Ctrl+Alt+B to toggle the Explorer pane, Ctrl+Alt+F to toggle the Floor Layout)*"
+    },
+    {
+        "featureid": "259_row_of_racks",
+        "tip": "View capacity of the selected row of racks and use the **Row of Racks** feature to optimize the rack placement of devices in the row. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "262_workorder",
+        "tip": "Use **Workorder** to review and execute workorders for the selected data center site. Workorders are created by performing a change to the data center assets in the Rack and Stack features within a Managed Data Center environment. Once the changes are made, you can review a workorder, print it, physically execute it, and then commit the changes by executing the workorder. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "280_techrefresh",
+        "tip": "Use **Tech Refresh** to plan and execute technology refreshes for devices in the data center"
+    },
+    {
+        "featureid": "282_replacement_profile",
+        "tip": "Use **Replacement Profile** to create replacement profiles for devices. A replacement profile is a template that defines the criteria for selecting replacement devices for a specific device. When you need to replace a device, you can use the replacement profile to quickly find suitable replacement devices that meet the defined criteria. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "284_find_replacement",
+        "tip": "Use **Replacement** to choose the device to replace using the replacement wizard. The wizard will guide you through the process of selecting the replacement device and then automatically move all of the cabling from the old device to the new device. This is a huge time saver when you have to replace a device that has a lot of cabling connections. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "300_menu_power",
+        "tip": "Power menu"
+    },
+    {
+        "featureid": "303_dcmconsole",
+        "tip": "Launch the **DCM Console** to review and manage power and thermal metrics at various levels of the data center. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "306_configure",
+        "tip": "The **Power/Configure** feature lets you configure the device discovery profiles, networks and events to enable power and thermal metrics using DCM. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "309_discover",
+        "tip": "The **Power/Discover** feature lets you discover discoverable and discovered devices using DCM and import the power and thermal metrics for those devices into NetZoom. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "312_monitor",
+        "tip": "The **Power/Monitor** feature lets you monitor the real-time status of discovered devices, which are indicated with a Monitor symbol in the data center hierarchy. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "350_menu_store",
+        "tip": "Store menu for inventory items"
+    },
+    {
+        "featureid": "353_inventory_management",
+        "tip": "By using the **Inventory Management** feature, NetZoom lets you manage assets in the inventory stores including cables, spare devices and devices already deployed to the data center. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "356_inventory_configuration",
+        "tip": "Use the **Inventory Configuration** feature to see the detailed configuration of inventory assets in the inventory stores including cables, spare devices and devices already deployed to the data center. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "400_menu_server",
+        "tip": "Server menu"
+    },
+    {
+        "featureid": "403_Server",
+        "tip": "The **Server/Server** feature lets you focus on managing each of the physical servers in the data center. Only compute resources are managed through this feature and displayed in the data center hierarchy. *(You may use Ctrl+Alt+B to toggle the Explorer pane, Ctrl+Alt+F to toggle the Floor Layout)*"
+    },
+    {
+        "featureid": "406_virtualcompute",
+        "tip": "The **Compute/Virtual Compute** feature lets you see how each virtual server is performing. *(You may use Ctrl+Alt+B to toggle the Explorer pane, Ctrl+Alt+F to toggle the Floor Layout)*"
+    },
+    {
+        "featureid": "409_cloudcompute",
+        "tip": "The **Compute/Cloud Compute** feature lets you see how each cloud resource is performing. *(You may use Ctrl+Alt+B to toggle the Explorer pane, Ctrl+Alt+F to toggle the Floor Layout)*"
+    },
+    {
+        "featureid": "450_menu_it",
+        "tip": "IT menu"
+    },
+    {
+        "featureid": "453_model_business_service",
+        "tip": "The **IT/Model Business Service** feature lets you model business services using other supporting business services and data center resources in order to understand the dependencies and impact of the data center resources on the business services. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "456_manage_business_service",
+        "tip": "The **IT/Manage Business Service** feature lets you explore how each business service is dependent on the data center resources. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "600_menu_audit",
+        "tip": "Audit menu"
+    },
+    {
+        "featureid": "603_audit_session",
+        "tip": "The **Audit/Audit Session** feature lets you create and manage Audit Sessions. An Audit Session is a container for the inventory collection and reconciliation data imported into the system. By creating different audit sessions, you can keep the inventory collection and reconciliation data organized and separated based on different criteria such as date, location of audit, or team responsible for the audit. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "606_audit_inventorycollection",
+        "tip": "The **Audit/Inventory Collection** feature lets users manually collect or import inventory collection data into an open audit session. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "609_audit_inventoryreconciliation",
+        "tip": "The **Audit/Inventory Reconciliation** feature lets users reconcile inventory collection data with the data center inventory data in NetZoom for an open audit session. By reconciling the inventory collection data with the data center inventory data, you can identify any discrepancies between the two sets of data and make informed decisions on how to resolve those discrepancies to keep the inventory data accurate and up-to-date. *(You may use Ctrl+Alt+B to toggle the Explorer pane)*"
+    },
+    {
+        "featureid": "9320_settings_desc_license",
+        "tip": "Use **Licence** to create to manage Licences"
+    },
+    {
+        "featureid": "9322_settings_desc_manage_license",
+        "tip": "Use **Manage License** to manage the different types of Licenses in the system. Roles are used to define a set of permissions and access levels that can be assigned to users. By creating roles, you can simplify the process of managing user permissions and ensure consistent access control across the application"
+    },
+    {
+        "featureid": "9330_netzoom_settings_hierarchygroup",
+        "tip": "Use **Data Center Hierarchy** features to define the data center hierarchy or inventory hierarchy. Changes to the Data Center Hierarchy should be made in Exclusive Mode. Please make sure all other users have logged out prior to making changes in this feature."
+    },
+    {
+        "featureid": "9332_settings_desc_datacenterhierarchy",
+        "tip": "Define the **Data Center Hierarchy** from the Site node to Floor levels. Changes to the Data Center Hierarchy should be made in Exclusive Mode. Please make sure all other users have logged out prior to making changes in this feature."
+    },
+    {
+        "featureid": "9334_settings_desc_inventory_hierarchy",
+        "tip": "Using **Inventory Store and Bins**, define the Inventory Hierarchy for a data center. The Inventory bins play an important role in the lifecycle of inventory assets as they are used in the process of moving assets from the inventory to the data center and vice versa. An asset's life begins in the **Spare Devices New** bin from where it can be deployed to the data center. After deployment, the asset is no longer in the inventory and therefore not in any Spare Devices bin although you can still see it in the In-Use Devices bin. If an asset needs to be removed from the data center, it moves back to the inventory and into the **Used** bin until it can be evaluated for future use or disposal. Changes to the Data Center Hierarchy should be made in Exclusive Mode. Please make sure all other users have logged out prior to making changes in this feature."
+    },
+    {
+        "featureid": "9340_settings_desc_role",
+        "tip": "Use **Role** to create to manage Roles and assign permissions by Role."
+    },
+    {
+        "featureid": "9342_settings_desc_manage_role",
+        "tip": "Use **Role** to manage Roles in the system. Roles are used to define a set of permissions and access levels that can be assigned to users. By creating roles, you can simplify the process of managing user permissions and ensure consistent access control across the application"
+    },
+    {
+        "featureid": "9344_settings_desc_authitemsrole",
+        "tip": "Use **Authorize Role** to assign individual Secured Items to Roles.\r\n\r\n1.  Select the Role being authorized in the left pane\r\n2. Check the Features and Entities to assign to the role in the right pane"
+    },
+    {
+        "featureid": "9350_settings_desc_user",
+        "tip": "Use **User** to manage Users in the system. Users are typically used to represent individual people who need access to the NetZoom application. By creating users, you can assign specific permissions and access levels to each user based on their role within the organization. This allows you to control who can see and do what within the application, ensuring that sensitive information is only accessible to authorized personnel"
+    },
+    {
+        "featureid": "9352_settings_desc_manageuser",
+        "tip": "Use **Manage User** to manage Users in the system. Using Manage User, you can add new Users, edit existing Users, and manage the permissions and access levels for each User. By managing users effectively, you can ensure that the right people have access to the right information and functionality within the application, which helps to maintain security and improve overall efficiency"
+    },
+    {
+        "featureid": "9354_settings_desc_authitemsuser",
+        "tip": "Use **Authorize User** to assign the essential attributes of Roles, Teams, Tenants and Licenses to users. Non-administrative Users are also assigned Sites, Features and Entities using Authorize User.\r\n\r\n1.  Select the User in the left pane \r\n2.  Assign the user a role, license in the right pane and any tenant or team\r\n3.  For non-administrative users, check the Secured Sites, Features and Entities to assign in the right pane"
+    },
+    {
+        "featureid": "9360_settings_desc_tenant",
+        "tip": "Use **Tenant** to manage Tenants which are typically used to represent different customers in a Managed Data Center environment, but they can also be used to represent different teams or business units within an enterprise. By assigning assets to tenants, you can generate tenant-specific reports and also use tenants as filters in various places across the application"
+    },
+    {
+        "featureid": "9362_settings_desc_manage_tenants",
+        "tip": "With the **Manage Tenants** setting, you may view and manage tenants in the system. Tenants are typically used to represent different customers in a Managed Data Center environment, but they can also be used to represent different teams or business units within an enterprise. By assigning assets to tenants, you can generate tenant-specific reports and also use tenants as filters in various places across the application"
+    },
+    {
+        "featureid": "9364_settings_desc_authitemstenant",
+        "tip": "Use **Authorize Tenant** to assign individual Secured Items to Tenants.\r\n\r\n1.  Select the Tenant in the left pane\r\n2.  Check the Features and Entities to assign to the tenant in the right pane"
+    },
+    {
+        "featureid": "9370_settings_desc_team",
+        "tip": "Use **Team** to manage Teams in the system. Teams are used to group users together for the purpose of sharing resources and collaborating on projects. By creating teams, you can simplify the process of managing user access and ensure consistent collaboration across the application"
+    },
+    {
+        "featureid": "9372_settings_desc_manage_teams",
+        "tip": "With the **Manage Teams** setting, you may view and manage teams in the system. Teams are typically used to represent different groups or departments within an enterprise. By assigning assets to teams, you can generate team-specific reports and also use teams as filters in various places across the application"
+    },
+    {
+        "featureid": "9374_settings_desc_authitemsteam",
+        "tip": "Use **Authorize Team** to assign individual Secured Items to Teams.\r\n\r\n1.  Select the Team in the left pane\r\n2.  Check the Features and Entities to assign to the team in the right pane"
+    },
+    {
+        "featureid": "9380_settings_desc_tag",
+        "tip": "Use **Tag** to manage Tags in the system. Tags are used to categorize and organize assets within the application. By creating tags, you can easily search for and filter assets based on their attributes"
+    },
+    {
+        "featureid": "9382_settings_desc_manage_tags",
+        "tip": "With the **Manage Tags** setting, you may view and manage tags in the system. Tags are typically used to categorize and organize assets within an enterprise. By assigning tags to assets, you can generate tag-specific reports and also use tags as filters in various places across the application"
+    },
+    {
+        "featureid": "9390_settings_desc_vendor",
+        "tip": "Use **Vendor** to manage Vendors in the system. Vendors are used to represent external companies or organizations that provide goods or services to the organization. By creating vendors, you can track their interactions and transactions within the application"
+    },
+    {
+        "featureid": "9392_settings_desc_manage_vendors",
+        "tip": "With the **Manage Vendors** setting, you may view and manage vendors in the system. Vendors are typically used to represent different suppliers or service providers within an enterprise. By assigning assets to vendors, you can generate vendor-specific reports and also use vendors as filters in various places across the application"
+    },
+    {
+        "featureid": "9410_cable_entities",
+        "tip": "Use **Cable** to manage Cable entities"
+    },
+    {
+        "featureid": "9412_settings_desc_cable_entities",
+        "tip": "Use **Edit Cable Entity Mapping** to define the data properties needed for each type of cable and create new cable entities"
+    },
+    {
+        "featureid": "9414_settings_desc_cable_export",
+        "tip": "Use **Export Cable Mapping** to export the properties and data for cables. This is typically used to perform a bulk change of data properties"
+    },
+    {
+        "featureid": "9416_settings_desc_cable_import",
+        "tip": "Use **Import Cable Mapping** to import the properties and data for cables. This is typically used during configuration of the application"
+    },
+    {
+        "featureid": "9430_device_entities",
+        "tip": "Use **Device** to manage Device entities"
+    },
+    {
+        "featureid": "9432_settings_desc_device_entities",
+        "tip": "Use **Edit Device Entity Mapping** to define the data properties needed for each type of device and create new device entities"
+    },
+    {
+        "featureid": "9434_settings_desc_device_export",
+        "tip": "Use **Export Device Mapping** to export the properties and data for devices. This is typically used to perform a bulk change of data properties"
+    },
+    {
+        "featureid": "9436_settings_desc_device_import",
+        "tip": "Use **Import Device Mapping** to import the properties and data for devices. This is typically used during configuration of the application"
+    },
+    {
+        "featureid": "9450_NetZoom_entities",
+        "tip": "Use **NetZoom** to manage NetZoom entities"
+    },
+    {
+        "featureid": "9452_settings_desc_entity_createnz",
+        "tip": "Use **Edit NetZoom Entity Mapping** to review the structure of any of the NetZoom entities and add or remove property groups"
+    },
+    {
+        "featureid": "9454_settings_desc_entity_export",
+        "tip": "Use **Export NetZoom Entity Mapping** to export the properties and data of any of the NetZoom entities. This is typically used to perform a bulk change of data properties"
+    },
+    {
+        "featureid": "9456_settings_desc_entity_import",
+        "tip": "Use **Import NetZoom Entity Mapping** to import the properties and data for any of the NetZoom entities. This is typically used during configuration of the application"
+    },
+    {
+        "featureid": "9470_manage_entity_tables",
+        "tip": "Use **Manage Entity Tables** to manage the tables and properties for each entity"
+    },
+    {
+        "featureid": "9472_settings_desc_entity_importnewtables",
+        "tip": "Use **Import New Tables and Properties** to import new tables and new properties for tables"
+    },
+    {
+        "featureid": "9474_settings_desc_purgeentitydata",
+        "tip": "**Use with care**. The **Purge Entity Data** setting deletes all data for the selected entity"
+    },
+    {
+        "featureid": "9480_settings_desc_validatexlsx_group",
+        "tip": "Use the **Select Folder** button to choose a folder containing one or more .xlsx files validate. Then, click the Upload button to load the spreadsheets. Expand the spreadsheets and select each worksheet to perform validation. By selecting a worksheet with validation errors, you may review the individual error conditions. Do not upload untrusted external files."
+    },
+    {
+        "featureid": "9482_settings_desc_validatexlsx",
+        "tip": "Use the **Select Folder** button to choose a folder containing one or more .xlsx files validate. Then, click the Upload button to load the spreadsheets. Expand the spreadsheets and select each worksheet to perform validation. By selecting a worksheet with validation errors, you may review the individual error conditions. Do not upload untrusted external files."
+    },
+    {
+        "featureid": "9500_admin_scheduler",
+        "tip": "The **Admin Scheduler** settings help manage the application performance and health of the NetZoom database and application"
+    },
+    {
+        "featureid": "9502_settings_desc_schedulereports",
+        "tip": "Use **Schedule Report Delivery** settings to create scheduled dates and times to run and deliver reports"
+    },
+    {
+        "featureid": "9504_settings_desc_schedulealertdelivery",
+        "tip": "Use **Schedule Alert Delivery** settings to review alert delivery schedule"
+    },
+    {
+        "featureid": "9508_settings_desc_schedulepurge",
+        "tip": "Use **Schedule Purge** to set the number of days before purging Log entries and Alerts by criticality"
+    },
+    {
+        "featureid": "9504_settings_desc_schedulealertdelivery",
+        "tip": "Use **Schedule Alert Delivery** settings to review alert delivery schedule"
+    },
+    {
+        "featureid": "9510_settings_desc_schedulesqljob",
+        "tip": "Use **Schedule SQL Job** settings to create and configure the parameters for managing Microsoft SQL Server jobs"
+    },
+    {
+        "featureid": "9512_settings_desc_schedulewinservices",
+        "tip": "Use **Schedule Windows Service** settings to configure the parameters for managing Windows Services"
+    },
+    {
+        "featureid": "9514_settings_desc_maint_archive",
+        "tip": "The **Schedule Data Archive** settings determine whether table data is archived or not, when to archive it and how long to keep archived data"
+    },
+    {
+        "featureid": "9516_settings_desc_scheduledailytasks",
+        "tip": "Use **Schedule Daily Tasks** settings to Configure the Schedule for Daily Tasks"
+    },
+    {
+        "featureid": "9518_settings_desc_ScheduleDCMReading",
+        "tip": "Use **Schedule DCM Reading** setting to Configure the Schedule for DCM Reading"
+    },
+    {
+        "featureid": "9520_netzoom_settings_admin_configuration",
+        "tip": "**Admin Configuration** provides a way to configure and review the installation of NetZoom"
+    },
+    {
+        "featureid": "9522_settings_desc_configure",
+        "tip": "Use **Configure** to change the default values for the Theme Color, Time Zone, Date Format, Measurement Units, Number of Alerts to show per page, and many other options"
+    },
+    {
+        "featureid": "9524_netzoom_settings_env",
+        "tip": "Using **env**, an administrator should review the environment variables and change the .env file on the sever, if needed. Restart the EXPAPI server if any changes are made to the .env file"
+    },
+    {
+        "featureid": "9525_servicecharges",
+        "tip": "Using **Service Charges**, set the Service rates, Costs or Support Charges based on different metrics, that are used when generating billing or chargeback reports"
+    },
+    {
+        "featureid": "9527_env-nzinthub",
+        "tip": "Using **env-nzinthub**, show the environment variables for the nzinthub"
+    },
+    {
+        "featureid": "9529_env-expapi",
+        "tip": "Using **env-expapi**, show the environment variables for expapi"
+    },
+    {
+        "featureid": "9539_env-dcmlistener",
+        "tip": "Using **env-dcmlistener**, show the environment variables for DCM listener"
+    },
+    {
+        "featureid": "9540_netzoom_settings_about_netzoom",
+        "tip": "**About NetZoom** provides a quick reference to the installation of NetZoom and the system metrics"
+    },
+    {
+        "featureid": "9542_settings_desc_dcim_statistics",
+        "tip": "The **DCIM Statistics** settings provide you with a summary of the information managed by NetZoom, including: the number of different types of devices like Racks, PDUs and Servers, information on the number of Hypervisors, information on the Cloud infrastructure, the number of monitored and discovered devices, User information, Alerts, Session information and License scheme"
+    },
+    {
+        "featureid": "9544_settings_desc_about_product_info",
+        "tip": "With the **Information** settings, you may view information about the NetZoom application including version, installation date, supporting websites, and minimum hardware requirements"
+    },
+    {
+        "featureid": "9550_settings_nzapi",
+        "tip": "Information on the **NetZoom API**"
+    },
+    {
+        "featureid": "9552_settings_desc_nzapi",
+        "tip": "Use **API** to review all of the NetZoom API methods and their parameters. Use the Play button to execute the method with the given payload. Publicly available methods are bold"
+    },
+    {
+        "featureid": "9560_netzoom_settings_addons",
+        "tip": "Use **NetZoom** **Addon** to customize the functionality of various NetZoom Addons"
+    },
+    {
+        "featureid": "9564_settings_desc_addins_mobileapp",
+        "tip": "Customize **Mobile App Options** to control functionality of the Mobile App. All fields in the Scan Property List and Collection Property List are separated with a semicolon (;) character"
+    },
+    {
+        "featureid": "9566_settings_desc_officeaddinoptions",
+        "tip": "Customize the **Office Addin Options** to control functionality of Office Addin. OpenAllLocations - if checked, the hierarchy tree will automatically open when the app is launched. Tabs - which tabs to show. Choose 1-3 from (DataCenter, Inventory, Library) separated by a semicolon (;) character"
+    },
+    {
+        "featureid": "9568_settings_desc_visio_options",
+        "tip": "The **Visio Stencil Shape Options** determine how NetZoom shapes are displayed or behave in Microsoft Visio:\r\n\r\n-   What to show for tooltip?\r\n-   How to scale the shapes when configuring?\r\n-   How to display the shape label and what information to use as the label text?"
+    },
+    {
+        "featureid": "9580_netzoom_settings_dci",
+        "tip": "Use the **Data Center Interconnect** settings to create detailed Outside Plant connections between two data center sites"
+    },
+    {
+        "featureid": "9582_settings_desc_dci",
+        "tip": "Use **Data Center Interconnect** to create and manage inter-site connectivity. Connectivity can be either site-site or point-point. Once a DCI is created, individual *Waypoints* may be added to mark the path"
+    },
+    {
+        "featureid": "9590_netzoom_settings_devicefilter",
+        "tip": "**Device Filters** can be used to help filter the data center tree for specific types of equipment or other conditions"
+    },
+    {
+        "featureid": "9592_settings_desc_devicefilterentity",
+        "tip": "Use **Device by Entity** settings to customize the Device filters by *Equipment Type*"
+    },
+    {
+        "featureid": "9594_settings_desc_devicefiltermodel",
+        "tip": "Use **Device by Model** settings to customize the Device filters by *Model Type*"
+    },
+    {
+        "featureid": "9596_settings_desc_devicefilterrack",
+        "tip": "Create and modify **Rack Capacity** filters based on available space, power, heat, and ports"
+    },
+    {
+        "featureid": "9598_settings_desc_floorlayout_filter",
+        "tip": "Using the **Floor Layout Filter** settings, users may define different filters to be used when displaying the Floor Layout on a Floor node"
+    },
+    {
+        "featureid": "9670_netzoom_settings_integration",
+        "tip": "The **Integration** Settings help NetZoom integrate with many different kinds of 3rd party applications and services to provide a unified platform for data center management. Edit the .env file to provide the integration system settings"
+    },
+    {
+        "featureid": "9672_settings_desc_int_aigemini",
+        "tip": "Use **AI Gemini** to configure the AI Gemini Pro Service for integration with NetZoom"
+    },
+    {
+        "featureid": "9682_settings_desc_int_dcm",
+        "tip": "Use **DCM** to configure the DCM Service for Power and Thermal monitoring after installing the DCM application"
+    },
+    {
+        "featureid": "9686_settings_desc_googlemap",
+        "tip": "Use **Google Map** to configure the Google Map Service"
+    },
+    {
+        "featureid": "9702_settings_desc_SMTPServer",
+        "tip": "Use **SMTP Server** to send email"
+    },
+    {
+        "featureid": "9691_settings_desc_mssql",
+        "tip": "Use **MSSQL** to configure the Microsoft SQL Database Service"
+    },
+    {
+        "featureid": "9692_settings_desc_powerbi",
+        "tip": "Use **Power BI** to configure the Microsoft Power BI Service"
+    },
+    {
+        "featureid": "9698_settings_desc_servicenow",
+        "tip": "Use **ServiceNow** to configure the ServiceNow Service"
+    },
+    {
+        "featureid": "9704_settings_desc_twilio",
+        "tip": "Use **Twilio** to configure the Twilio SMS Delivery Service"
+    },
+    {
+        "featureid": "9706_settings_desc_workday",
+        "tip": "Use **Workday** to configure the Workday Service"
+    },
+    {
+        "featureid": "9790_netzoom_settings_subscribe",
+        "tip": "Use **Subscribe** to create Alerts and Reports delivery profiles"
+    },
+    {
+        "featureid": "9792_settings_desc_subscribe_alert",
+        "tip": "To Subscribe to an alert, check the box in front of the Alert name. By subscribing to Alerts, you authorize NetZoom to send email and/or SMS messages to you. Message/data rates may apply."
+    },
+    {
+        "featureid": "9794_settings_desc_subscribe_report",
+        "tip": "Use **Report** to view a list of all reports that can be delivered. To Subscribe to a report, check the box in front of the Report name"
+    },
+    {
+        "featureid": "9796_settings_desc_subscribe_delivery",
+        "tip": "Use **Delivery** to view the delivery log for alerts and reports"
+    },
+    {
+        "featureid": "9810_netzoom_settings_templates",
+        "tip": "The **Templates** Setting determines what Alerts, Charts, Dashboards, Reports, Status Bar and Watermarks are available to the users"
+    },
+    {
+        "featureid": "9812_settings_desc_broadcastprofile",
+        "tip": "Using the **Broadcast Template** settings, you can set up announcement messages to be broadcast to the users of NetZoom. Messages are shown when a user logs in during the date range specified in the profile"
+    },
+    {
+        "featureid": "9814_settings_templates_chart",
+        "tip": "Use **Chart Templates** to design charts and make them available to the application. Bold template names indicate built-in system templates"
+    },
+    {
+        "featureid": "9816_settings_desc_template_customid",
+        "tip": "Some IDs are automatically generated by the NetZoom application, when needed. The **CustomID Templates** determine the scheme of the IDs by allowing you to set a Starting Value, Step and a Formatting Template"
+    },
+    {
+        "featureid": "9818_settings_templates_report",
+        "tip": "Use **Report Templates** to manage report templates and review and modify the user groups who should receive the reports"
+    },
+    {
+        "featureid": "9820_settings_templates_watermark",
+        "tip": "Use **Watermark Templates** to make watermarks available to NetZoom"
+    },
+    {
+        "featureid": "9826_settings_desc_backgroundtaskprofile",
+        "tip": "The **Background Task Profile** defines all of the information necessary to complete a task. A task may consist of a 1 to 3 components which can be either SQL or API calls. (Before Task Method - optional component used to set the stage for the Task Method, Task Method - the main operation, After Task Method - an optional cleanup/finalizing routine)"
+    },
+    {
+        "featureid": "9870_netzoom_settings_admintools",
+        "tip": "The **Admin Tools** should only be used by an administrator during a service window as they will affect the availability of the application"
+    },
+    {
+        "featureid": "9872_settings_desc_server_status",
+        "tip": "Use **Server Status** to view performance statistics about the NetZoom application"
+    },
+    {
+        "featureid": "9874_settings_desc_admin_optimizenz",
+        "tip": "**Optimize NetZoom** performs maintenance on the NetZoom database"
+    },
+    {
+        "featureid": "9876_settings_desc_admin_startnz",
+        "tip": "**Start NetZoom** performs the startup sequence to start the application and make it available to the general users"
+    },
+    {
+        "featureid": "9878_settings_desc_admin_stopnz",
+        "tip": "**Stop NetZoom** performs the shutdown sequence to safely stop the application and make it offline to the general users"
+    },
+    {
+        "featureid": "9879_settings_desc_admin_migrate",
+        "tip": "**Migrate** a version NetZoom 18.x database so that it can be used in this version"
+    }
+]

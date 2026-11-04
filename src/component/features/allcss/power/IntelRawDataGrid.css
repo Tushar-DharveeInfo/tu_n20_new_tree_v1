@@ -1,0 +1,43 @@
+.nz-intel-raw-data-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.nz-intel-raw-data-header {
+    padding: 0px var(--text-content-indent);
+    flex-shrink: 0;
+}
+
+.nz-intel-raw-grid-content {
+    flex-grow: 1;
+    min-height: 0;
+    height: calc(100% - 40px);
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+/*
+ * body sets scroll-behavior: smooth, and that value is inherited.
+ * Dragging the AG Grid scrollbar writes scrollTop and reads it back
+ * on the same turn. Smooth scrolling has not applied yet, so the grid
+ * snaps the thumb back. The mouse wheel still moves the viewport.
+ */
+.nz-intel-raw-data-container .ag-body-viewport,
+.nz-intel-raw-data-container .ag-center-cols-viewport,
+.nz-intel-raw-data-container .ag-body-vertical-scroll-viewport,
+.nz-intel-raw-data-container .ag-body-horizontal-scroll-viewport {
+    scroll-behavior: auto !important;
+}
+
+.nz-intel-raw-grid-placeholder {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #888;
+}

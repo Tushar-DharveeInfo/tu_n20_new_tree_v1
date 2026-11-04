@@ -1,0 +1,116 @@
+.nz-rear-checkbox .nz-form-control-labeled {
+    margin-top: 0px !important;
+}
+
+.nz-port-map-container .nz-right-mouse-menu {
+    visibility: hidden;
+}
+
+.nz-port-map-container .ag-row-focus .nz-right-mouse-menu {
+    visibility: visible;
+}
+
+.nz-active-port,
+.ag-cell-focus .nz-active-port,
+.ag-theme-alpine .ag-ltr .ag-cell-focus:not(.ag-cell-range-selected):focus-within.nz-active-port {
+    border: 1px solid red !important;
+}
+
+.nz-cabling-rtm .MuiButtonBase-root:focus,
+.nz-cabling-rtm .MuiButtonBase-root:hover,
+.nz-cabling-rtm .MuiButtonBase-root:target {
+    background-color: transparent !important;
+}
+
+.nz-cabling-add-btn {
+    border-radius: 50%;
+    width: 30px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+    height: 30px;
+    margin: var(--spacing-2);
+}
+
+.nz-cabling-add-btn-active {
+    background: rgb(255, 255, 153);
+}
+
+.nz-cabling-add-btn .MuiButtonBase-root,
+.nz-cabling-rtm .MuiButtonBase-root {
+    padding: 0 !important;
+}
+
+.nz-cabling-rtm {
+    margin-right: 2px;
+    height: 24px;
+    width: 10px;
+    min-width: 10px;
+}
+
+.nz-cabling-rtm .nz-node-menu {
+    display: none;
+    width: 100%;
+    height: 100%;
+}
+
+.ag-row-focus .nz-cabling-rtm .nz-node-menu,
+.nz-from-selected .nz-cabling-rtm .nz-node-menu,
+.ag-cell-focus .nz-cabling-rtm .nz-node-menu {
+    display: block;
+}
+
+.nz-cabling-rtm .nz-img-three-dots-rtm {
+    position: absolute;
+}
+
+.nz-cabling-rtm span {
+    justify-content: center;
+    width: 20px;
+}
+
+.nz-cabling-rtm .nz-img-three-dots-rtm div {
+    width: 20px;
+    height: 20px;
+    display: none;
+}
+
+
+
+.ag-cell-focus .nz-cabling-rtm .nz-img-three-dots-rtm div {
+    display: block !important;
+}
+
+.nz-port-map-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.nz-cabling-port-map-grid {
+    width: 100%;
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+}
+
+.nz-cablingCableCombo {
+    min-height: calc(40px + var(--spacing-1));
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.nz-cabling-port-map-grid .nz-cabling-Grid {
+    flex-grow: 1;
+    overflow: hidden;
+    position: relative;
+}
+
+.nz-cabling-port-map-grid .nz-ag-container {
+    position: unset !important;
+}

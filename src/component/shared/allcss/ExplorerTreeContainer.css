@@ -1,0 +1,9 @@
+.nz-explorer-tree-main-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.nz-explorer-tree-main-container .nz-explorer-tree-container {
+    flex-grow: 1;
+}

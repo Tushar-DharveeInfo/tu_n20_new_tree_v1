@@ -1,0 +1,217 @@
+.nz-feature-reminder .nz-layout-without-tree>.nz-sub-header,
+.nz-feature-reminder .nz-layout-without-tree>.nz-sub-header #nz-actionimages,
+.nz-feature-reminder .nz-layout-without-tree>.nz-sub-header #nz-optionalcomponent {
+    background-color: var(--subheaderbg) !important;
+}
+
+
+
+.nz-feature-reminder .nz-layout-without-tree .nz-sub-header .nz-popupqa-container .nz-image-strip-data {
+    border-color: var(--bg-color-darktext);
+}
+
+.nz-feature-reminder .nz-layout-without-tree .nz-sub-header .nz-popupqa-container .nz-image-strip-data:hover {
+    border-color: red;
+}
+
+.nz-feature-reminder .react-datepicker-popper {
+    position: fixed !important;
+}
+
+.nz-right-mouse-action-cell-btn .nz-feature-icon>div {
+    width: 20px;
+}
+
+.nz-app-qa-reminder-container {
+    flex-grow: 1;
+    overflow: hidden;
+    display: flex;
+    max-width: 100%;
+}
+
+.nz-app-qa-reminder-container .nz-sub-header {
+    flex-shrink: 0;
+}
+
+.nz-app-qa-reminder {
+    position: relative;
+}
+
+.nz-app-qa-reminder .nz-sidebar-with-notification {
+    position: unset !important;
+}
+
+.nz-app-qa-reminder {
+    background-color: var(--bg-color-sidebar);
+}
+
+.nz-app-qa-reminder .ag-cell .ag-cell-value span,
+.nz-app-qa-reminder .nz-fc-toggle-container .nz-fc-checkbox.MuiCheckbox-root+.MuiTouchRipple-root {
+    color: var(--textprimary) !important;
+}
+
+.nz-app-qa-reminder .nz-fc-toggle-container .nz-fc-checkbox.MuiCheckbox-root+.MuiTouchRipple-root,
+.nz-app-qa-reminder .nz-fc-toggle-container .nz-fc-checkbox.Mui-checked+.MuiTouchRipple-root:after {
+    border-color: var(--borderandscrollbar) !important;
+}
+
+.nz-app-qa-reminder .ag-cell-inline-editing .nz-fc-toggle-container .nz-fc-checkbox.MuiCheckbox-root+.MuiTouchRipple-root,
+.nz-app-qa-reminder .ag-cell-inline-editing .nz-fc-toggle-container .nz-fc-checkbox.Mui-checked+.MuiTouchRipple-root:after {
+    border-color: var(--textprimary) !important;
+}
+
+.nz-app-qa-reminder .ag-cell-last-left-pinned .ag-cell-value span {
+    color: var(--textprimary) !important;
+}
+
+.nz-app-qa-reminder .ag-center-cols-container .ag-row-focus {
+    color: var(--textsecondary) !important;
+}
+
+.nz-app-qa-reminder-content-container {
+    height: 100%;
+    flex-grow: 1;
+    display: flex;
+    overflow: hidden;
+}
+
+.nz-reminder-notes-componet {
+    overflow: auto;
+    height: 100%;
+    justify-content: space-between;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.nz-reminder-container {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-2);
+}
+
+.nz-app-qa-reminder-container .nz-reminder-text {
+    display: flex !important;
+    gap: var(--spacing-0);
+    flex-direction: column;
+    height: 100% !important;
+    align-items: start !important;
+}
+
+.nz-node-reminder-delete-button {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.nz-reminder-node-header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nz-reminder-node-header svg {
+    color: var(--iconColor) !important;
+}
+
+.nz-reminder-card-line {
+    display: flex;
+    gap: var(--spacing-2);
+}
+
+.nz-app-qa-reminder-container .nz-sub-header {
+    justify-content: start;
+}
+
+.nz-app-qa-reminder-content-container .nz-reminder-only {
+    width: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 100%;
+}
+
+.nz-reminder-notes-componet .nz-sub-header,
+.nz-audio-container .nz-sub-header {
+    justify-content: space-between;
+}
+
+.nz-dynamic-selected-card {
+    border-left: 3px solid var(--borderandscrollbar);
+    background-color: var(--selection) !important;
+    color: var(--selection-text);
+    border-color: var(--textprimary);
+    cursor: pointer;
+    backdrop-filter: brightness(1.02);
+    transition:
+        background-color 0.3s ease,
+        box-shadow 0.3s ease,
+        border-color 0.3s ease;
+}
+
+.nz-reminder-add-from-header {
+    display: flex;
+    justify-content: space-between !important;
+}
+
+.nz-reminder-note-controls {
+    padding: var(--spacing-1);
+    flex-grow: 1;
+    min-height: 130px;
+    display: flex;
+    flex-direction: column;
+}
+
+.nz-node-list-box .nz-sub-header {
+    justify-content: space-between !important;
+}
+
+.nz-reminder-container-main-div {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    right: 0;
+    width: 50%;
+    min-height: 100%;
+    height: 100%;
+    background: white;
+    border: 0.5px solid var(--scrollbar-thumb-hover);
+}
+
+.nz-reminder-main-content {
+    height: 100%;
+    overflow: hidden;
+}
+
+.nz-reminder-notes-componet .nz-reminder-add-from {
+    overflow: auto;
+}
+
+.nz-reminder-header-open-icon {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nz-reminder-node-header .nz-note-date {
+    gap: var(--spacing-3);
+}
+
+
+.nz-reminder-notes-label {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    font-weight: 500;
+    margin-bottom: var(--spacing-1);
+}
+
+.nz-reminder-notes-required {
+    color: red;
+    margin-left: 4px;
+}
+
+.nz-reminder-notes-control {
+    flex-grow: 1;
+    overflow: hidden;
+}

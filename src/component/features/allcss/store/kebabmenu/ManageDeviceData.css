@@ -1,0 +1,140 @@
+.nz-container-manage-device-data {
+    display: flex;
+    flex-direction: column;
+}
+
+.nz-container-manage-device-data .nz-action-list-container .nz-action-panel .nz-action-panel-actions {
+    height: var(--node_height);
+}
+
+.nz-container-manage-device-data .nz-container-panes {
+    overflow: hidden;
+    padding: var(--spacing-0);
+}
+
+.nz-container-manage-device-data .nz-list-data {
+    padding: var(--spacing-0) 0px;
+}
+
+.nz-container-manage-device-data .nz-manage-device-property-header {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-1);
+    flex-shrink: 0;
+    justify-content: start;
+    padding: 5px;
+}
+
+.nz-container-manage-device-data .nz-manage-device-property-header .nz-form-control-labeled {
+    margin: 0px !important;
+    width: auto !important;
+    flex-shrink: 0;
+}
+
+.nz-container-manage-device-data .nz-manage-device-property-header .nz-fc-toggle-container {
+    padding: 0px !important;
+}
+
+.nz-set-ai-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-shrink: 0;
+}
+
+.nz-control-setproperty {
+    padding-bottom: 5px;
+}
+
+.nz-control-setproperty .nz-label-container {
+    padding-left: 5px;
+}
+
+.nz-setproperty-dialog .MuiPaper-root .MuiTypography-root {
+    padding: 2px !important;
+}
+
+.nz-grid-popup-footer .nz-save-btn-azure {
+    height: var(--submenu_height);
+}
+
+.nz-Edit-form-content {
+    width: 100% !important;
+    flex: 1 1 auto;
+    padding-bottom: 25px;
+}
+
+.nz-grid-popup-footer {
+    width: 100%;
+
+    display: flex;
+    justify-content: end;
+    height: calc(var(--submenu_height) + 5px);
+    bottom: 0;
+}
+
+.nz-set-property .nz-disabled {
+    color: var(--disabled-color);
+    -webkit-text-fill-color: var(--disabled-color);
+    cursor: not-allowed;
+    opacity: 0.5;
+}
+
+.nz-set-property .nz-popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.3);
+    /* light black background */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9998;
+    /* slightly less than popup */
+}
+
+.nz-set-property .nz-popup-container {
+    background-color: var(--bgexplorer);
+    border: 1px solid var(--borderandscrollbar);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    padding: 2px;
+    z-index: 9999;
+    width: 50vw;
+    height: auto;
+    max-height: 80vh;
+    position: relative;
+    overflow: hidden;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.nz-set-property .nz-popup-container .nz-action-image-container {
+    position: absolute;
+    right: 3px;
+    z-index: 2;
+}
+
+.nz-set-property .nz-popup-container .nz-set-btn {
+    background-color: var(--bgfeaturepane1);
+    height: 30px;
+    margin-right: 5px;
+}
+
+.nz-set-property .nz-popup-container .nz-error-message-container {
+    padding: 5px;
+}
+
+.nz-set-property .nz-settings-helptip-container {
+    padding: var(--spacing-1);
+}
+
+.nz-set-property .nz-popup-container .nz-set-ai-container {
+    padding-top: var(--spacing-1);
+}
+
+.nz-set-property .nz-form-setproperty {
+    padding: 0px var(--spacing-1);
+}

@@ -1,0 +1,116 @@
+.nz-entity-card-instance-list-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    min-height: 0;
+}
+
+.nz-entity-card-instance-list-container .nz-entity-card-list {
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: var(--card-padding-0);
+    display: flex;
+    flex-direction: column;
+    gap: var(--card-gap);
+    scroll-behavior: auto;
+    padding-left: 0px;
+}
+
+.nz-entity-card-instance-list-container .nz-entity-card-list-item {
+    flex: 0 0 auto;
+    scroll-margin-block: var(--spacing-1);
+}
+
+.nz-entity-card-instance-list-container .nz-entity-card-action-panel [tabindex]:focus:not(:focus-visible) {
+    outline: none;
+}
+
+.nz-entity-card-instance-list-container .nz-entity-card-action-panel [tabindex]:focus-visible {
+    outline: 1px solid var(--textprimary);
+    outline-offset: 0px;
+}
+
+.nz-entity-card-instance-list-container .nz-entity-card-main {
+    height: auto;
+    min-height: 50px;
+    flex: 0 0 auto;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--card-padding-1);
+}
+
+.nz-entity-card-instance-list-container .nz-entity-card-main .nz-dynamic-card-content {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex: 1 1 auto;
+    min-width: 0;
+    height: 100%;
+}
+
+.nz-entity-card-instance-list-container .nz-entity-card-main .nz-dynamic-card-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    flex: 0 0 auto;
+    height: auto;
+    min-height: var(--image-size-2);
+}
+
+.nz-entity-card-instance-list-container .nz-entity-card-main .nz-dynamic-card-icon .nz-image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nz-entity-card-instance-list-container .nz-entity-card-main .nz-dynamic-card-main-content {
+    width: 100%;
+    min-width: 0;
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-self: center;
+}
+
+.nz-entity-card-instance-list-container .nz-entity-card-main .nz-cardlayout-content {
+    width: 100%;
+    min-width: 0;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.nz-entity-card-instance-list-container .nz-entity-card-main .nz-cardlayout-response-details {
+    text-align: left;
+    width: 100%;
+}
+
+.nz-entity-card-instance-list-container .nz-entity-card-main .nz-cardlayout-field-item .nz-label-container {
+    justify-content: flex-start;
+    text-align: left;
+}
+
+.nz-entity-card-instance-list-container .nz-entity-card-action-panel {
+    display: flex;
+    padding: var(--spacing-2) calc(var(--spacing-2) + 2px);
+    gap: var(--spacing-2);
+    background-color: #fff;
+    flex-shrink: 0;
+    background: var(--subheaderbg)
+}
+
+.nz-entity-card-instance-list-status {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    text-align: left;
+    padding: var(--spacing-1);
+}

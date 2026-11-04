@@ -1,0 +1,31 @@
+.nz-export-entites-container,
+.nz-export-entites-container .nz-grid-dialog-container-div,
+.nz-export-entites-container .nz-grid-main-container-div,
+.nz-export-entites-container .nz-OnetoOne-Grid {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.nz-export-entites-container .nz-export-grid {
+  flex-grow: 1;
+  overflow: hidden;
+}
+
+.nz-export-entites-container .nz-sub-header {
+  flex-shrink: 0;
+}
+
+.nz-no-data-to-show {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.nz-export-entities .nz-import-export-tree .nz-checkbox-button {
+  margin-bottom: var(--spacing-1);
+  padding: 0px var(--spacing-1);
+}

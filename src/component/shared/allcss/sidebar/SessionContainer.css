@@ -1,0 +1,19 @@
+.nz-session-container {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-1);
+}
+
+.nz-title-header {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    background: var(--bgfeaturepane1);
+    padding: 0px 5px;
+}
+
+.nz-session-container .MuiIconButton-root.nz-copy-to-clipboard-only {
+    top: 4px !important;
+}

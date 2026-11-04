@@ -1,0 +1,92 @@
+.nz-cabling-navigation-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    min-width: 25%;
+    width: 25%;
+    overflow: hidden;
+    gap: var(--spacing-1);
+    border: 1px solid var(--borderandscrollbar)
+}
+
+.nz-main-cabling-navigation-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.nz-cabling-navigation-view {
+    flex-grow: 1;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: var(--spacing-1);
+    padding-top: 0px;
+
+}
+
+.nz-cabling-navigation-view .nz-device-view-container {
+    display: flex;
+}
+
+.nz-cabling-navigation-grid {
+    min-height: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.nz-cabling-navigation {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    display: flex;
+    white-space: nowrap;
+    gap: var(--spacing-1);
+    padding: var(--spacing-1);
+}
+
+.nz-cabling-navigation .nz-grid-container-div {
+    padding: var(--spacing-1);
+    padding-bottom: 0px;
+}
+
+.nz-cabling-make-hipertlink {
+    color: #007bff;
+    /* Bootstrap blue or use any hyperlink color */
+    text-decoration: underline;
+    cursor: pointer;
+    padding-left: 5px;
+}
+
+.nz-cabling-make-hipertlink:hover {
+    color: #0056b3;
+    /* Darker blue on hover */
+    text-decoration: underline;
+}
+
+.nz-cabling-navigation-cell {
+    padding-left: 5px;
+}
+
+.nz-cabling-navigation-grid .ag-center-cols-container .ag-row-focus:has(.nz-cabling-make-hipertlink),
+.nz-cabling-navigation-cell-highlight {
+    border: 1px solid red !important;
+}
+
+.nz-cabling-navigation .nz-cabling-navigation-view,
+.nz-cabling-navigation .nz-cabling-navigation-view .nz-device-view-container,
+.nz-cabling-navigation .nz-cabling-navigation-view .nz-device-view-container .nz-cabling-views-container-div {
+    width: 100%;
+    height: 100%;
+}
+
+.nz-cabling-navigation .nz-cabling-navigation-view .nz-device-view-container .nz-cabling-views-container-div {
+    border: 1px solid var(--borderandscrollbar);
+}
+
+.nz-cabling-navigation .nz-grid-container-div .nz-copy-to-clipboard-div .nz-copy-to-clipboard-only {
+    top: 4px;
+    left: 24px;
+}
